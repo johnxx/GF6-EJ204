@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dsh xmlns="http://www.EFIAnalytics.com/:dsh">
-<bibliography author="TunerStudio 3.0.28 - EFI Analytics - support@efianalytics.com" company="EFI Analytics, © 2007 - 2019, All Rights Reserved." writeDate="Sat Jun 01 13:20:17 PDT 2019"/>
+<bibliography author="TunerStudio 3.0.28 - EFI Analytics - support@efianalytics.com" company="EFI Analytics, © 2007 - 2019, All Rights Reserved." writeDate="Sat Jun 15 00:13:55 PDT 2019"/>
 <versionInfo fileFormat="3.0" firmwareSignature="speeduino 201903"/>
 <gaugeCluster antiAliasing="true" backgroundDitherColor="-8355712" clusterBackgroundColor="-16777216" clusterBackgroundImageFileName="" clusterBackgroundImageStyle="Tile">
 <dashComp type="Gauge">
@@ -21,7 +21,7 @@
 <HighCriticalVP type="ValueProvider">5000.0</HighCriticalVP>
 <HighWarning type="double">3000.0</HighWarning>
 <HighWarningVP type="ValueProvider">3000.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">2070.0</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">0</LabelDigits>
 <LowCritical type="double">300.0</LowCritical>
@@ -59,7 +59,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">1.0</RelativeWidth>
 <RelativeHeight type="double">0.125</RelativeHeight>
 <RelativeX type="double">0.0</RelativeX>
 <RelativeY type="double">0.0</RelativeY>
@@ -68,6 +67,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">1.0</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -91,7 +91,7 @@
 <HighCriticalVP type="ValueProvider">5000.0</HighCriticalVP>
 <HighWarning type="double">3000.0</HighWarning>
 <HighWarningVP type="ValueProvider">3000.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">2070.0</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">0</LabelDigits>
 <LowCritical type="double">300.0</LowCritical>
@@ -129,7 +129,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">0.33</RelativeWidth>
 <RelativeHeight type="double">0.025</RelativeHeight>
 <RelativeX type="double">0.6699999999999999</RelativeX>
 <RelativeY type="double">0.03787878787878788</RelativeY>
@@ -138,6 +137,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">0.33</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -161,7 +161,7 @@
 <HighCriticalVP type="ValueProvider">100.0</HighCriticalVP>
 <HighWarning type="double">90.0</HighWarning>
 <HighWarningVP type="ValueProvider">90.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">67.0</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">0</LabelDigits>
 <LowCritical type="double">-1.0</LowCritical>
@@ -199,7 +199,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">1.0</RelativeWidth>
 <RelativeHeight type="double">0.125</RelativeHeight>
 <RelativeX type="double">0.0</RelativeX>
 <RelativeY type="double">0.125</RelativeY>
@@ -208,6 +207,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">1.0</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -231,7 +231,7 @@
 <HighCriticalVP type="ValueProvider">100.0</HighCriticalVP>
 <HighWarning type="double">90.0</HighWarning>
 <HighWarningVP type="ValueProvider">90.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">67.0</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">0</LabelDigits>
 <LowCritical type="double">-1.0</LowCritical>
@@ -269,7 +269,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">0.33</RelativeWidth>
 <RelativeHeight type="double">0.025</RelativeHeight>
 <RelativeX type="double">0.6699999999999999</RelativeX>
 <RelativeY type="double">0.16287878787878787</RelativeY>
@@ -278,6 +277,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">0.33</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -301,7 +301,7 @@
 <HighCriticalVP type="ValueProvider">25.0</HighCriticalVP>
 <HighWarning type="double">20.0</HighWarning>
 <HighWarningVP type="ValueProvider">20.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">6.026</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">3</LabelDigits>
 <LowCritical type="double">1.0</LowCritical>
@@ -339,7 +339,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">1.0</RelativeWidth>
 <RelativeHeight type="double">0.125</RelativeHeight>
 <RelativeX type="double">0.0</RelativeX>
 <RelativeY type="double">0.25</RelativeY>
@@ -348,6 +347,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">1.0</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -371,7 +371,7 @@
 <HighCriticalVP type="ValueProvider">25.0</HighCriticalVP>
 <HighWarning type="double">20.0</HighWarning>
 <HighWarningVP type="ValueProvider">20.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">6.026</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">3</LabelDigits>
 <LowCritical type="double">1.0</LowCritical>
@@ -409,7 +409,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">0.33</RelativeWidth>
 <RelativeHeight type="double">0.025</RelativeHeight>
 <RelativeX type="double">0.6699999999999999</RelativeX>
 <RelativeY type="double">0.2878787878787879</RelativeY>
@@ -418,6 +417,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">0.33</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -441,7 +441,7 @@
 <HighCriticalVP type="ValueProvider">80.0</HighCriticalVP>
 <HighWarning type="double">70.0</HighWarning>
 <HighWarningVP type="ValueProvider">70.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">9.964266666666667</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">1</LabelDigits>
 <LowCritical type="double">-1.0</LowCritical>
@@ -479,7 +479,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">1.0</RelativeWidth>
 <RelativeHeight type="double">0.125</RelativeHeight>
 <RelativeX type="double">0.0</RelativeX>
 <RelativeY type="double">0.375</RelativeY>
@@ -488,6 +487,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">1.0</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -511,7 +511,7 @@
 <HighCriticalVP type="ValueProvider">80.0</HighCriticalVP>
 <HighWarning type="double">70.0</HighWarning>
 <HighWarningVP type="ValueProvider">70.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">9.964266666666667</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">1</LabelDigits>
 <LowCritical type="double">-1.0</LowCritical>
@@ -549,7 +549,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">0.33</RelativeWidth>
 <RelativeHeight type="double">0.025</RelativeHeight>
 <RelativeX type="double">0.6699999999999999</RelativeX>
 <RelativeY type="double">0.4128787878787879</RelativeY>
@@ -558,6 +557,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">0.33</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -581,7 +581,7 @@
 <HighCriticalVP type="ValueProvider">245.0</HighCriticalVP>
 <HighWarning type="double">200.0</HighWarning>
 <HighWarningVP type="ValueProvider">200.0</HighWarningVP>
-<HistoricalPeakValue type="double">101.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">71.0</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">0</LabelDigits>
 <LowCritical type="double">0.0</LowCritical>
@@ -619,7 +619,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">1.0</RelativeWidth>
 <RelativeHeight type="double">0.125</RelativeHeight>
 <RelativeX type="double">0.0</RelativeX>
 <RelativeY type="double">0.5</RelativeY>
@@ -628,6 +627,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">1.0</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -651,7 +651,7 @@
 <HighCriticalVP type="ValueProvider">245.0</HighCriticalVP>
 <HighWarning type="double">200.0</HighWarning>
 <HighWarningVP type="ValueProvider">200.0</HighWarningVP>
-<HistoricalPeakValue type="double">101.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">71.0</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">0</LabelDigits>
 <LowCritical type="double">0.0</LowCritical>
@@ -689,7 +689,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">0.33</RelativeWidth>
 <RelativeHeight type="double">0.025</RelativeHeight>
 <RelativeX type="double">0.6699999999999999</RelativeX>
 <RelativeY type="double">0.5378787878787878</RelativeY>
@@ -698,6 +697,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">0.33</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -721,7 +721,7 @@
 <HighCriticalVP type="ValueProvider">100.0</HighCriticalVP>
 <HighWarning type="double">95.0</HighWarning>
 <HighWarningVP type="ValueProvider">95.0</HighWarningVP>
-<HistoricalPeakValue type="double">28.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">37.0</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">0</LabelDigits>
 <LowCritical type="double">-15.0</LowCritical>
@@ -759,7 +759,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">1.0</RelativeWidth>
 <RelativeHeight type="double">0.125</RelativeHeight>
 <RelativeX type="double">0.0</RelativeX>
 <RelativeY type="double">0.625</RelativeY>
@@ -768,6 +767,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">1.0</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -791,7 +791,7 @@
 <HighCriticalVP type="ValueProvider">100.0</HighCriticalVP>
 <HighWarning type="double">95.0</HighWarning>
 <HighWarningVP type="ValueProvider">95.0</HighWarningVP>
-<HistoricalPeakValue type="double">28.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">37.0</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">0</LabelDigits>
 <LowCritical type="double">-15.0</LowCritical>
@@ -829,7 +829,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">0.33</RelativeWidth>
 <RelativeHeight type="double">0.025</RelativeHeight>
 <RelativeX type="double">0.6699999999999999</RelativeX>
 <RelativeY type="double">0.6628787878787878</RelativeY>
@@ -838,6 +837,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">0.33</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -861,7 +861,7 @@
 <HighCriticalVP type="ValueProvider">105.0</HighCriticalVP>
 <HighWarning type="double">95.0</HighWarning>
 <HighWarningVP type="ValueProvider">95.0</HighWarningVP>
-<HistoricalPeakValue type="double">67.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">63.0</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">0</LabelDigits>
 <LowCritical type="double">-15.0</LowCritical>
@@ -899,7 +899,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">1.0</RelativeWidth>
 <RelativeHeight type="double">0.125</RelativeHeight>
 <RelativeX type="double">0.0</RelativeX>
 <RelativeY type="double">0.75</RelativeY>
@@ -908,6 +907,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">1.0</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -931,7 +931,7 @@
 <HighCriticalVP type="ValueProvider">105.0</HighCriticalVP>
 <HighWarning type="double">95.0</HighWarning>
 <HighWarningVP type="ValueProvider">95.0</HighWarningVP>
-<HistoricalPeakValue type="double">67.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">63.0</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">0</LabelDigits>
 <LowCritical type="double">-15.0</LowCritical>
@@ -969,7 +969,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">0.0</Value>
-<RelativeWidth type="double">0.33</RelativeWidth>
 <RelativeHeight type="double">0.025</RelativeHeight>
 <RelativeX type="double">0.6699999999999999</RelativeX>
 <RelativeY type="double">0.7878787878787878</RelativeY>
@@ -978,6 +977,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">0.33</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -1001,7 +1001,7 @@
 <HighCriticalVP type="ValueProvider">151.0</HighCriticalVP>
 <HighWarning type="double">151.0</HighWarning>
 <HighWarningVP type="ValueProvider">151.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">168.0</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">0</LabelDigits>
 <LowCritical type="double">-1.0</LowCritical>
@@ -1039,7 +1039,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">50.0</Value>
-<RelativeWidth type="double">1.0</RelativeWidth>
 <RelativeHeight type="double">0.125</RelativeHeight>
 <RelativeX type="double">0.0</RelativeX>
 <RelativeY type="double">0.875</RelativeY>
@@ -1048,6 +1047,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">1.0</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
@@ -1071,7 +1071,7 @@
 <HighCriticalVP type="ValueProvider">151.0</HighCriticalVP>
 <HighWarning type="double">151.0</HighWarning>
 <HighWarningVP type="ValueProvider">151.0</HighWarningVP>
-<HistoricalPeakValue type="double">0.0</HistoricalPeakValue>
+<HistoricalPeakValue type="double">168.0</HistoricalPeakValue>
 <HistoryDelay type="int">15000</HistoryDelay>
 <LabelDigits type="int">0</LabelDigits>
 <LowCritical type="double">-1.0</LowCritical>
@@ -1109,7 +1109,6 @@
 <ShortClickAction type="String">null</ShortClickAction>
 <Dirty type="boolean">true</Dirty>
 <Value type="double">50.0</Value>
-<RelativeWidth type="double">0.33</RelativeWidth>
 <RelativeHeight type="double">0.025</RelativeHeight>
 <RelativeX type="double">0.6699999999999999</RelativeX>
 <RelativeY type="double">0.9128787878787878</RelativeY>
@@ -1118,6 +1117,7 @@
 <ItalicFont type="boolean">false</ItalicFont>
 <MustPaint type="boolean">true</MustPaint>
 <RunDemo type="boolean">false</RunDemo>
+<RelativeWidth type="double">0.33</RelativeWidth>
 <FontFamily type="String"/>
 <Dirty type="boolean">true</Dirty>
 <EcuConfigurationName type="String"/>
