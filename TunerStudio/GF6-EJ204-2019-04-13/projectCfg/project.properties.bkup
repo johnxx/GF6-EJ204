@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Fri Jun 28 21:05:58 PDT 2019
-#Fri Jun 28 21:05:58 PDT 2019
+#Last Saved on: Sat Jun 29 20:02:44 PDT 2019
+#Sat Jun 29 20:02:44 PDT 2019
 mapCalCalibrate\ MAP_width=394
 injCharsInjector\ Characteristics_width=376
 RevLimiterSRev\ Limiter_Y=245
@@ -110,7 +110,7 @@ veGenerator_txtDisplacementCc=32676
 mapCalCalibrate\ MAP_height=488
 mapCalCalibrate\ MAP_Y=172
 mapCalCalibrate\ MAP_X=438
-VeAnalyzePanel_veTable1Tbl_applyPeriod=15
+VeAnalyzePanel_veTable1Tbl_applyPeriod=Manually
 VeAnalyzeConsole.veTable1Tbl_selectedDash=Standard
 sparkTblIgnition\ Advance\ Table_width=541
 dwellSettingsDwell\ Settings_height=406
