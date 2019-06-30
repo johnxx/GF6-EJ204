@@ -6618,3 +6618,115 @@ Please check your Communications Settings.
 6/29/19, 11:48:09 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
 6/29/19, 11:48:09 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
 Please check your Communications Settings. 
+6/29/19, 11:48:13 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:48:13 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:48:13 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:48:13 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:48:17 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:48:17 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:48:17 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:48:17 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:48:21 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:48:21 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:48:21 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:48:21 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:48:25 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:48:25 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:48:25 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:48:25 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:48:29 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:48:29 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:48:29 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:48:29 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:48:33 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:48:33 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:48:33 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:48:33 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:48:37 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:48:37 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:48:37 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:48:37 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:48:41 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:48:41 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:48:41 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:48:41 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:48:45 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:48:45 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:48:45 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:48:45 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:48:49 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:48:49 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:48:49 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:48:49 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:48:53 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:48:53 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:48:53 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:48:53 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:48:57 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:48:57 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:48:57 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:48:57 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:49:01 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:49:01 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:49:01 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:49:01 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:49:05 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:49:05 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:49:05 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:49:05 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:49:09 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:49:09 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:49:09 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:49:09 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:49:13 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:49:13 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:49:13 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:49:13 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:49:17 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:49:17 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:49:17 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:49:17 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:49:21 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:49:21 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:49:21 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:49:21 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:49:25 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:49:25 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:49:25 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:49:25 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:49:28 PM :Info: file:CurrentTune.msq is not Monitored, cannot pause Monitoring of it.
+6/29/19, 11:49:28 PM :Info: Time to save msq: 16.466257
+6/29/19, 11:49:28 PM :Info: file:CurrentTune.msq is not Monitored, cannot unpause Monitoring of it.
+6/29/19, 11:49:28 PM :Info: file:CurrentTune.msq is not Monitored, cannot pause Monitoring of it.
+6/29/19, 11:49:29 PM :Info: Time to save msq: 12.34432
+6/29/19, 11:49:29 PM :Info: GF6-EJ204-2019-04-13 Tune Saved!
+6/29/19, 11:49:29 PM :Info: file:CurrentTune.msq is not Monitored, cannot unpause Monitoring of it.
+6/29/19, 11:49:29 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:49:29 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:49:29 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:49:29 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+6/29/19, 11:49:33 PM :Info: Opening port: /dev/rfcomm0
+6/29/19, 11:49:33 PM :Info: Error creating streams to port, closing port to cleanup.
+6/29/19, 11:49:33 PM :Info: Error closing port on cleanup. Port name - /dev/rfcomm0; Method name - closePort(); Exception type - Port not opened.
+6/29/19, 11:49:33 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
