@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="" writeDate="Sun Jun 30 23:58:48 PDT 2019"/>
+<bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;" writeDate="Sun Jun 30 21:48:26 PDT 2019"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2019.03" nPages="10" signature="speeduino 201903"/>
 <page>
 <pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
@@ -302,7 +302,7 @@
 <constant name="boostType">"Open Loop"</constant>
 <constant name="useDwellLim">"On"</constant>
 <constant name="sparkMode">"Wasted COP"</constant>
-<constant name="TrigFilter">"Weak"</constant>
+<constant name="TrigFilter">"Off"</constant>
 <constant name="ignCranklock">"Off"</constant>
 <constant digits="1" name="dwellcrank" units="ms">5.0</constant>
 <constant digits="1" name="dwellrun" units="ms">3.5</constant>
