@@ -1,0 +1,34 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Tue Mar 19 02:59:09 PDT 2019
+#Tue Mar 19 02:59:09 PDT 2019
+Triggers.ActiveTriggers=
+commPort=COM1
+canId=0
+ecuSettings=AFR|CAN_COMMANDS_OFF|FAHRENHEIT|SPEED_DENSITY|enablehardware_test|resetcontrol_standard|
+CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+selectedComDriver=Multi Interface MegaSquirt Driver
+triggerSettingsTrigger\ Settings_Y=163
+triggerSettingsTrigger\ Settings_X=442
+projectDescription=
+projectName=test
+CommSettingCom\ Port=COM1
+CommSettingPapikaCommDriver.controllerInterfaceId=RS232 Serial Interface
+ecuConfigFile=mainController.ini
+CommSettingBaud\ Rate=115200
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM3
+outputtest1Test\ Output\ Hardware_width=654
+outputtest1Test\ Output\ Hardware_Y=160
+outputtest1Test\ Output\ Hardware_X=308
+triggerSettingsTrigger\ Settings_height=506
+firmwareDescription=Speeduino 2019.02
+dashBoardFile=/dashboard//dashboard.dash
+CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM3
+tuneFileDir=/home/john/tmp/speeduino-201902b/reference/Base Tunes
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+outputtest1Test\ Output\ Hardware_height=513
+baudRate=115200
+triggerSettingsTrigger\ Settings_width=385

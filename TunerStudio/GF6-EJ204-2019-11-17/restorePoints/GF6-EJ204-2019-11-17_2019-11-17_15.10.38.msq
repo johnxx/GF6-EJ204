@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<msq xmlns="http://www.msefi.com/:msq">
+<bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Before loading /home/john/Projects/Subaru/speeduino/reference/Base Tunes/Speeduino base tune.msq to GF6-EJ204-2019-11-17 - &lt;br&gt;" writeDate="Sun Nov 17 15:10:38 PST 2019"/>
+<versionInfo fileFormat="5.0" firmwareInfo="" nPages="11" signature="speeduino 201911"/>
+<page>
+<pcVariable cols="1" digits="0" name="algorithmLimits" rows="8">
+         511.0 
+         100.0 
+         511.0 
+         511.0 
+         100.0 
+         100.0 
+         100.0 
+         100.0 
+      </pcVariable>
+<pcVariable digits="0" name="fuelLoadMax">255.0</pcVariable>
+<pcVariable digits="0" name="ignLoadMax">255.0</pcVariable>
+</page>
+<page number="0" size="128">
+<constant name="mapSample">"Instantaneous"</constant>
+<constant name="twoStroke">"Four-stroke"</constant>
+<constant name="injType">"Port"</constant>
+<constant name="nCylinders">"1"</constant>
+<constant name="algorithm">"MAP"</constant>
+<constant name="fixAngEnable">"Off"</constant>
+<constant name="nInjectors">"1"</constant>
+</page>
+<page number="1" size="288"/>
+<page number="2" size="288"/>
+<page number="3" size="128"/>
+<page number="4" size="288"/>
+<page number="5" size="128"/>
+<page number="6" size="240"/>
+<page number="7" size="192"/>
+<page number="8" size="192"/>
+<page number="9" size="192"/>
+<page number="10" size="288"/>
+<settings Comment="These setting are only used if this msq is opened without a project.">
+<setting name="enablehardware_test_OFF" value="enablehardware_test_OFF"/>
+<setting name="FAHRENHEIT" value="FAHRENHEIT"/>
+<setting name="CAN_COMMANDS_OFF" value="CAN_COMMANDS_OFF"/>
+<setting name="resetcontrol_standard" value="resetcontrol_standard"/>
+<setting name="AFR" value="AFR"/>
+</settings>
+<userComments Comment="These are user comments that can be related to a particular setting or dialog."/>
+</msq>

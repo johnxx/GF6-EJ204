@@ -1,0 +1,20 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Tue Jun 04 02:07:21 PDT 2019
+#Tue Jun 04 02:07:21 PDT 2019
+CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+baudRate=115200
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM3
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+selectedComDriver=Multi Interface MegaSquirt Driver
+projectDescription=
+CommSettingPapikaCommDriver.controllerInterfaceId=RS232 Serial Interface
+CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM3
+ecuConfigFile=mainController.ini
+dashBoardFile=/dashboard//dashboard.dash
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+commPort=COM1
+ecuSettings=AFR|CAN_COMMANDS_OFF|FAHRENHEIT|SPEED_DENSITY|enablehardware_test|resetcontrol_adv|
+projectName=test2

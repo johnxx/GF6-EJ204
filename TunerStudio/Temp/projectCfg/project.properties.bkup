@@ -1,0 +1,9 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Mon Sep 30 22:08:37 PDT 2019
+#Mon Sep 30 22:08:37 PDT 2019
+ecuSettings=CAN_COMMANDS|FAHRENHEIT|INTERNAL_LOG_FIELDS_OFF|OUTMSG_EDITING_OFF|PORT_STATUS_OFF|PW_4X_OFF|
+projectName=Temp
+dashBoardFile=/dashboard//dashboard.dash
+ecuConfigFile=MS3Format0435.16P.ini
+projectDescription=Temporary Project for viewing msq files

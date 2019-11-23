@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Wed Nov 06 19:42:51 PST 2019
-#Wed Nov 06 19:42:51 PST 2019
+#Last Saved on: Sun Nov 17 16:49:08 PST 2019
+#Sun Nov 17 16:49:08 PST 2019
 mapCalCalibrate\ MAP_width=394
 2DTable_veTable1Tbl_Lock\ Selected\ Cells=[12\:2][13\:2][12\:3][13\:3]
 injCharsInjector\ Characteristics_width=420
@@ -14,10 +14,10 @@ CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
 airdensity_curveIAT\ density\ correction_X=127
 egoControlAFR/O2_Y=214
 egoControlAFR/O2_X=447
-CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=true
+CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
 reset_controlReset\ Control_width=376
 egoControlAFR/O2_height=405
-CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=true
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
 veGenerator_txtPkHpMap=100
 reset_controlReset\ Control_Y=313
 sparkSettingsSpark\ Settings_height=382
@@ -96,9 +96,9 @@ afrTable1TblAFR\ Table_width=602
 outputtest1Test\ Output\ Hardware_height=513
 stagingTableDialogStaged\ injection_height=455
 reset_controlReset\ Control_height=206
-sparkSettingsSpark\ Settings_width=627
+sparkSettingsSpark\ Settings_width=602
 crankPWCranking\ Settings_width=451
-CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/rfcomm0
+CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM3
 stagingTableDialogStaged\ injection_Y=189
 outputtest1Test\ Output\ Hardware_width=654
 stagingTableDialogStaged\ injection_X=447
@@ -146,7 +146,7 @@ dwellSettingsDwell\ Settings_X=447
 refTable_001_txtResistor2=320.0
 Auxin_configLocal\ Auxillary\ Input\ Channel\ Configuration_X=199
 refTable_001_txtResistor1=5800.0
-CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/rfcomm0
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM3
 refTable_002_txtY2=18.7
 refTable_002_txtY1=9.7
 veGenerator_txtPkTq=145
@@ -157,19 +157,19 @@ CommSettingPapikaCommDriver.controllerInterfaceId=RS232 Serial Interface
 injCharsInjector\ Characteristics_Y=40
 injCharsInjector\ Characteristics_X=504
 crankPWCranking\ Settings_Y=119
-crankPWCranking\ Settings_X=409
 sparkSettingsSpark\ Settings_Y=225
+crankPWCranking\ Settings_X=409
 sparkSettingsSpark\ Settings_X=321
 canId=0
 refTable_002_txtX2=4.0
 refTable_002_txtX1=1.0
 commPort=/dev/ttyACM3
 baudRate=115200
-veGenerator_txtMaxRpm=7300
 warmupWarmup\ Enrichment\ (WUE)\ -\ Percent\ Multiplier_width=610
+veGenerator_txtMaxRpm=7300
 protocolEnvelope=
-afrTable1TblAFR\ Table_Y=42
 refTable_000_chkFahrenheit=false
+afrTable1TblAFR\ Table_Y=42
 afrTable1TblAFR\ Table_X=14
 GF6-EJ204-2019-04-13.veTable1Tbl_minCltFilter=65.0
 flexFuelingFuel\ Sensor\ Settings_Y=105

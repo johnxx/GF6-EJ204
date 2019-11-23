@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="" writeDate="Fri Nov 08 19:34:39 PST 2019"/>
+<bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="" writeDate="Sun Nov 17 17:17:00 PST 2019"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2019.03" nPages="10" signature="speeduino 201903"/>
 <page>
 <pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
@@ -295,8 +295,8 @@
 <constant name="useResync">"No"</constant>
 <constant digits="1" name="sparkDur" units="ms">1.0</constant>
 <constant name="trigPatternSec">"Single tooth cam"</constant>
-<constant digits="0" name="bootloaderCaps" units="level">94.0</constant>
-<constant name="resetControl">"Prevent When Running"</constant>
+<constant digits="0" name="bootloaderCaps" units="level">0.0</constant>
+<constant name="resetControl">"Serial Command"</constant>
 <constant name="resetControlPin">"Board Default"</constant>
 <constant digits="0" name="SkipCycles" units="cycles">1.0</constant>
 <constant name="boostType">"Open Loop"</constant>

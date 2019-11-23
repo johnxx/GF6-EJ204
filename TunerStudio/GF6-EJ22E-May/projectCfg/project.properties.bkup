@@ -1,0 +1,49 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Sun Sep 23 15:21:24 PDT 2018
+#Sun Sep 23 15:21:24 PDT 2018
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM3
+commPort=/dev/ttyACM0
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+CommSettingBaud\ Rate=115200
+outputtest1Test\ Output\ Hardware_height=513
+canId=0
+injCharsInjector\ Characteristics_height=563
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+injCharsInjector\ Characteristics_width=376
+Triggers.ActiveTriggers=
+CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+projectDescription=
+dwellSettingsDwell\ Settings_width=376
+CommSettingCom\ Port=/dev/ttyACM0
+baudRate=115200
+CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM3
+engine_constantsEngine\ Constants_height=507
+engine_constantsEngine\ Constants_Y=163
+engine_constantsEngine\ Constants_X=351
+ecuConfigFile=mainController.ini
+triggerSettingsTrigger\ Settings_width=427
+sparkSettingsSpark\ Settings_Y=273
+sparkSettingsSpark\ Settings_X=447
+tuneFileDir=/home/john/Projects/Subaru/speeduino-201805/reference
+outputtest1Test\ Output\ Hardware_width=625
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+sparkSettingsSpark\ Settings_width=376
+CommSettingPapikaCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+injCharsInjector\ Characteristics_Y=135
+injCharsInjector\ Characteristics_X=447
+sparkSettingsSpark\ Settings_height=286
+dwellSettingsDwell\ Settings_Y=213
+dwellSettingsDwell\ Settings_X=447
+selectedComDriver=Multi Interface MegaSquirt Driver
+outputtest1Test\ Output\ Hardware_Y=160
+outputtest1Test\ Output\ Hardware_X=322
+engine_constantsEngine\ Constants_width=567
+dwellSettingsDwell\ Settings_height=406
+ecuSettings=AFR|CAN_COMMANDS_OFF|FAHRENHEIT|SPEED_DENSITY|enablehardware_test|resetcontrol_standard|
+projectName=GF6-EJ22E-May
+triggerSettingsTrigger\ Settings_Y=125
+triggerSettingsTrigger\ Settings_X=414
+dashBoardFile=/dashboard//dashboard.dash
+CommSettingPapikaCommDriver.controllerInterfaceId=RS232 Serial Interface
+triggerSettingsTrigger\ Settings_height=582
