@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="" writeDate="Wed Dec 11 05:12:57 PST 2019"/>
+<bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;" writeDate="Wed Dec 11 05:12:57 PST 2019"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2019.11" nPages="11" signature="speeduino 201911"/>
 <page>
 <pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
