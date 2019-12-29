@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<msq xmlns="http://www.msefi.com/:msq">
+    <bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;" writeDate="Sun Dec 29 07:00:03 PST 2019"/>
+    <versionInfo fileFormat="5.0" firmwareInfo="" nPages="11" signature="speeduino 201911"/>
+    <page>
+        <pcVariable cols="1" digits="0" name="algorithmLimits" rows="8">
+         511.0 
+         100.0 
+         511.0 
+         511.0 
+         100.0 
+         100.0 
+         100.0 
+         100.0 
+      </pcVariable>
+        <pcVariable digits="0" name="fuelLoadMax">255.0</pcVariable>
+        <pcVariable digits="0" name="ignLoadMax">255.0</pcVariable>
+    </page>
+    <page number="0" size="128"/>
+    <page number="1" size="288"/>
+    <page number="2" size="288"/>
+    <page number="3" size="128"/>
+    <page number="4" size="288"/>
+    <page number="5" size="128"/>
+    <page number="6" size="240"/>
+    <page number="7" size="192"/>
+    <page number="8" size="192"/>
+    <page number="9" size="192"/>
+    <page number="10" size="288"/>
+    <settings Comment="These setting are only used if this msq is opened without a project.">
+        <setting name="FAHRENHEIT" value="FAHRENHEIT"/>
+        <setting name="enablehardware_test" value="enablehardware_test"/>
+        <setting name="CAN_COMMANDS_OFF" value="CAN_COMMANDS_OFF"/>
+        <setting name="resetcontrol_standard" value="resetcontrol_standard"/>
+        <setting name="AFR" value="AFR"/>
+    </settings>
+    <userComments Comment="These are user comments that can be related to a particular setting or dialog."/>
+</msq>

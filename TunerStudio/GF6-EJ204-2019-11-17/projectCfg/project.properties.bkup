@@ -1,13 +1,13 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Tue Dec 24 01:57:56 PST 2019
-#Tue Dec 24 01:57:56 PST 2019
+#Last Saved on: Sun Dec 29 06:28:58 PST 2019
+#Sun Dec 29 06:28:58 PST 2019
 dwellSettingsDwell\ Settings_X=447
 vvtSettingsVVT\ Control_width=431
 CommSettingKinoCommDriver.controllerInterfaceId=RS232 Serial Interface
 LaunchControlLaunch\ Control\ /\ Flat\ shift_width=376
-sparkSettingsSpark\ Settings_X=334
 dwell_correction_curveDwell\ voltage\ correction_X=447
+sparkSettingsSpark\ Settings_X=334
 dwell_correction_curveDwell\ voltage\ correction_Y=255
 boostSettingsBoost\ Control_Y=156
 boostSettingsBoost\ Control_X=447
@@ -38,8 +38,8 @@ flexFuelingFuel\ Sensor\ Settings_height=622
 clt_advance_curveCold\ Advance_height=375
 ASEAfterstart\ Enrichment(ASE)_Y=-197
 airdensity_curveIAT\ density\ correction_X=426
-airdensity_curveIAT\ density\ correction_Y=229
 triggerSettingsTrigger\ Settings_width=376
+airdensity_curveIAT\ density\ correction_Y=229
 vvtSettingsVVT\ Control_Y=155
 vvtSettingsVVT\ Control_X=419
 veGenerator_txtPkTqRpm=5000
@@ -50,8 +50,8 @@ dwell_correction_curveDwell\ voltage\ correction_width=376
 RevLimiterSRev\ Limiter_X=447
 RevLimiterSRev\ Limiter_Y=245
 afrTable1TblAFR\ Table_Y=561
-sparkSettingsSpark\ Settings_Y=225
 afrTable1TblAFR\ Table_X=2759
+sparkSettingsSpark\ Settings_Y=225
 fuelpumpFuel\ pump_X=2929
 batCalCalibrate\ voltage\ reading_width=376
 protocolEnvelope=
