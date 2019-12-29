@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-    <bibliography author="TunerStudio MS Lite! 3.0.28 - EFI Analytics, Inc." tuneComment="" writeDate="Sat Jun 29 23:49:28 PDT 2019"/>
+    <bibliography author="TunerStudio MS Lite! 3.0.28 - EFI Analytics, Inc." tuneComment="" writeDate="Sat Aug 17 18:04:10 PDT 2019"/>
     <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2019.03" nPages="10" signature="speeduino 201903"/>
     <page>
         <pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
