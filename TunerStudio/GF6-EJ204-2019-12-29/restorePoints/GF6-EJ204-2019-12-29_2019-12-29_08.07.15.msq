@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="" writeDate="Sun Dec 29 08:59:11 PST 2019"/>
+<bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;" writeDate="Sun Dec 29 08:07:15 PST 2019"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2019.11" nPages="11" signature="speeduino 201911"/>
 <page>
 <pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
@@ -77,7 +77,7 @@
 <constant name="flexEnabled">"Off"</constant>
 <constant name="legacyMAP">"No"</constant>
 <constant name="baroCorr">"Off"</constant>
-<constant name="injLayout">"Semi-Sequential"</constant>
+<constant name="injLayout">"Paired"</constant>
 <constant name="perToothIgn">"Yes"</constant>
 <constant name="dfcoEnabled">"Off"</constant>
 <constant digits="1" name="unused2-39" units="ms">25.5</constant>
@@ -85,10 +85,10 @@
 <constant digits="0" name="flexFreqLow" units="Hz">50.0</constant>
 <constant digits="0" name="flexFreqHigh" units="Hz">150.0</constant>
 <constant digits="0" name="boostMaxDuty" units="%">80.0</constant>
-<constant digits="0" name="tpsMin" units="ADC">23.0</constant>
-<constant digits="0" name="tpsMax" units="ADC">206.0</constant>
+<constant digits="0" name="tpsMin" units="ADC">26.0</constant>
+<constant digits="0" name="tpsMax" units="ADC">230.0</constant>
 <constant digits="0" name="mapMin" units="kpa">10.0</constant>
-<constant digits="0" name="mapMax" units="kpa">135.0</constant>
+<constant digits="0" name="mapMax" units="kpa">118.0</constant>
 <constant digits="0" name="fpPrime" units="s">3.0</constant>
 <constant digits="1" name="stoich" units=":1">14.7</constant>
 <constant digits="0" name="oddfire2" units="deg">0.0</constant>
@@ -110,8 +110,8 @@
 <constant name="fanWhenOff">"Yes"</constant>
 <constant name="unused_fan_bits">"30"</constant>
 <constant cols="1" digits="0" name="asePct" rows="4" units="%">
+         70.0 
          50.0 
-         40.0 
          35.0 
          35.0 
       </constant>
@@ -303,7 +303,7 @@
 <constant name="TrigEdge">"FALLING"</constant>
 <constant name="TrigSpeed">"Crank Speed"</constant>
 <constant name="IgInv">"Going Low"</constant>
-<constant name="TrigPattern">"36-2-2-2"</constant>
+<constant name="TrigPattern">"Missing Tooth"</constant>
 <constant name="TrigEdgeSec">"RISING"</constant>
 <constant name="fuelPumpPin">"Board Default"</constant>
 <constant name="useResync">"No"</constant>
@@ -560,12 +560,12 @@
          15.0 
       </constant>
 <constant cols="1" digits="0" name="injBatRates" rows="6" units="%">
-         100.0 
-         100.0 
-         100.0 
-         100.0 
-         100.0 
-         100.0 
+         171.0 
+         141.0 
+         113.0 
+         86.0 
+         64.0 
+         54.0 
       </constant>
 <constant cols="1" digits="0" name="airDenBins" rows="9" units="F">
          -40.014 
