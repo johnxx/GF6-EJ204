@@ -44421,3 +44421,1519 @@ z.b: No bytes found on unknown read size. timeout x2: 1000
 11/17/19 5:17:03 PM :Debug: ############################################# Save Project ##########################################
 11/17/19 5:17:03 PM :Info: Finalizing Sensors
 Saved user properties successfully
+Starting on Kino
+TunerStudio 3.0.28 started on Tue Dec 24 01:32:59 PST 2019
+JRE 11.0.5, Linux 5.3.0-24-generic, amd64
+java.library.path=lib/alternateLinuxDrivers/x86_64-linux:lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:GTK+, ClassName:'com.sun.java.swing.plaf.gtk.GTKLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+12/24/19, 1:33:01 AM :Debug: no update:defaultFont
+12/24/19, 1:33:03 AM :Info: Loading Language Content.
+12/24/19, 1:33:03 AM :Info: Initializing File Dialogs.
+12/24/19, 1:33:03 AM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+12/24/19, 1:33:03 AM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+12/24/19, 1:33:03 AM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+12/24/19, 1:33:03 AM :Info: Initializing Plugin Services.
+12/24/19, 1:33:03 AM :Info: Loading Plugins.
+12/24/19, 1:33:03 AM :Info: Initializing Help.
+12/24/19, 1:33:03 AM :Info: Initializing Edition Features.
+12/24/19, 1:33:03 AM :Info: Initializing App Events.
+12/24/19, 1:33:03 AM :Debug: App Name:TunerStudio, appEdition:MS
+12/24/19, 1:33:03 AM :Info: Initializing User Interface
+12/24/19, 1:33:03 AM :Warning: Unable to set Main cluster for title:
+12/24/19, 1:33:04 AM :Info: Error Sorting Dialog: column beyond range of TableModel
+12/24/19, 1:33:05 AM :Info: Loading Font list.
+12/24/19, 1:33:05 AM :Debug: Time to retreive font name list: 21 ms.
+12/24/19, 1:33:05 AM :Info: 
+12/24/19, 1:33:05 AM :Info: Initializing UI Components.
+12/24/19, 1:33:05 AM :Info: Ready
+MSmain: No check, last update check=Mon Dec 23 19:57:01 PST 2019
+MSad: No check, last update check=Mon Dec 23 19:57:04 PST 2019
+12/24/19, 1:33:32 AM :Info: Opening Project ...
+12/24/19, 1:33:32 AM :Debug: Opening project: /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17
+12/24/19, 1:33:32 AM :Debug: Reading translation file as plain text
+12/24/19, 1:33:32 AM :Debug: EventTrigger Data log Reset. expression: 
+12/24/19, 1:33:32 AM :Debug: EventTrigger Stop Data log Reset. expression: 
+12/24/19, 1:33:32 AM :Info: Supported iniSpecVersion=3.51
+12/24/19, 1:33:32 AM :Debug: Filtered ConfigurationOptionGroup in 25ms.
+12/24/19, 1:33:32 AM :Info: Supported iniSpecVersion=3.51
+12/24/19, 1:33:32 AM :Info: Read file canPcVariables.ini: 0.545382ms
+12/24/19, 1:33:32 AM :Info: Filtered ini: 0.052959ms
+12/24/19, 1:33:32 AM :Info: No iniVersion defined
+12/24/19, 1:33:32 AM :Info: Loading Trigger Wheels
+12/24/19, 1:33:32 AM :Info: Loaded All known ini sections
+12/24/19, 1:33:32 AM :Info: Parsed and validated ini "canPcVariables.ini" in : 13ms.
+12/24/19, 1:33:32 AM :Info: Read file mainController.ini: 11.699635ms
+12/24/19, 1:33:32 AM :Info: Filtered ini: 2.887602ms
+12/24/19, 1:33:32 AM :Info: No iniVersion defined
+12/24/19, 1:33:32 AM :Debug: ini signature: speeduino 201911
+12/24/19, 1:33:32 AM :Info: Loading Trigger Wheels
+12/24/19, 1:33:32 AM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+12/24/19, 1:33:32 AM :Info: Loaded All known ini sections
+12/24/19, 1:33:32 AM :Info: Parsed and validated ini "mainController.ini" in : 214ms.
+12/24/19, 1:33:32 AM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+12/24/19, 1:33:32 AM :Info: Time to load primary config: 308.9588ms. used cached config: false
+12/24/19, 1:33:32 AM :Info: Supported iniSpecVersion=3.51
+12/24/19, 1:33:32 AM :Debug: Adding Configuration: GF6-EJ204-2019-11-17
+12/24/19, 1:33:32 AM :Debug: Fill Constants: 11
+12/24/19, 1:33:32 AM :Info: Tune opened, 2305 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/CurrentTune.msq
+12/24/19, 1:33:32 AM :Info: Tune opened, 2305 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/CurrentTune.msq
+12/24/19, 1:33:32 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:33:32 AM :Info: !!! Loaded config in 533
+12/24/19, 1:33:33 AM :Info: Com Thread created: COMM Thread80217.98504935388
+12/24/19, 1:33:33 AM :Info: !!! Activated Project 1150
+12/24/19, 1:33:33 AM :Info: Opening Gauge Cluster..
+12/24/19, 1:33:33 AM :Info: Comm Manager for GF6-EJ204-2019-11-17 Started, thread ID: COMM Thread80217.98504935388
+12/24/19, 1:33:33 AM :Info: Opening port: /dev/rfcomm0
+12/24/19, 1:33:33 AM :Info: Time to load uncached dash: 129.9986ms, file: dashboard.dash
+12/24/19, 1:33:33 AM :Debug: High Speed Paint: true
+12/24/19, 1:33:33 AM :Info: 
+12/24/19, 1:33:33 AM :Debug: !!! Opened Dash 1700
+12/24/19, 1:33:33 AM :Info: GF6-EJ204-2019-11-17 Ready
+12/24/19, 1:33:33 AM :Debug: Tuning View Files loaded in 95.48794ms.
+12/24/19, 1:33:34 AM :Info: Comm Read Thread Change! Old Thread:null, new Thread:COMM Thread80217.98504935388
+12/24/19, 1:33:36 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x32       speeduino.201912
+x2D x64 x65 x76                                                       -dev
+12/24/19, 1:33:38 AM :Info: Communicating with sig:speeduino 201912-dev, Speeduino 2019.12-dev
+12/24/19, 1:33:38 AM :Debug: setVisible Thread: AWT-EventQueue-0
+12/24/19, 1:34:37 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:34:37 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:34:37 AM :Debug: goOffline about to stopProcessing, Time:251
+12/24/19, 1:34:37 AM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+12/24/19, 1:34:37 AM :Debug: goOffline Notified offline, Time:270
+12/24/19, 1:34:37 AM :Debug: goOffline closed port, Time:271
+12/24/19, 1:34:37 AM :Debug: Deactivated fast paint Main Dashboard
+12/24/19, 1:34:37 AM :Debug: goOffline comm thread stopped, Time:771
+12/24/19, 1:34:37 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:34:38 AM :Info: Copying speeduino.ini to GF6-EJ204-2019-11-17's projectCfg
+12/24/19, 1:34:38 AM :Info: Copying speeduino.ini to ecuDef dir for future use.
+12/24/19, 1:34:38 AM :Debug: ############################################# Save Project ##########################################
+12/24/19, 1:34:38 AM :Info: Time to load non-cached dashboard: 215.13611 ms. file:dashboard.dash
+12/24/19, 1:34:38 AM :Debug: Time to save dashboard: 217.26599ms. file: /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/dashboard/dashboard.dash
+12/24/19, 1:34:38 AM :Debug: TuneLog Editor set text
+12/24/19, 1:34:38 AM :Debug: Fill Constants: 16
+12/24/19, 1:34:38 AM :Debug: File does not exist, creating new:
+/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/restorePoints/GF6-EJ204-2019-11-17_2019-12-24_01.34.38.msq
+12/24/19, 1:34:38 AM :Info: Time to save msq: 35.554398
+12/24/19, 1:34:38 AM :Info: GF6-EJ204-2019-11-17 Restore point saved
+12/24/19, 1:34:38 AM :Info: GF6-EJ204-2019-11-17 Restore point saved to: GF6-EJ204-2019-11-17_2019-12-24_01.34.38.msq
+12/24/19, 1:34:38 AM :Info: Time to save msq: 23.401993
+12/24/19, 1:34:39 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:34:39 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:34:39 AM :Debug: goOffline about to stopProcessing, Time:1
+12/24/19, 1:34:39 AM :Debug: goOffline closed port, Time:1
+12/24/19, 1:34:40 AM :Debug: goOffline comm thread stopped, Time:502
+12/24/19, 1:34:40 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:34:40 AM :Debug: removing Configuration: GF6-EJ204-2019-11-17
+12/24/19, 1:34:40 AM :Debug: ############################################# Save Project ##########################################
+12/24/19, 1:34:40 AM :Info: Opening Project ...
+12/24/19, 1:34:40 AM :Debug: Opening project: /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/
+12/24/19, 1:34:40 AM :Debug: EventTrigger Data log Reset. expression: 
+12/24/19, 1:34:40 AM :Debug: EventTrigger Stop Data log Reset. expression: 
+12/24/19, 1:34:40 AM :Info: Supported iniSpecVersion=3.51
+12/24/19, 1:34:40 AM :Debug: Filtered ConfigurationOptionGroup in 4ms.
+12/24/19, 1:34:40 AM :Info: Supported iniSpecVersion=3.51
+12/24/19, 1:34:40 AM :Info: Read file canPcVariables.ini: 0.143605ms
+12/24/19, 1:34:40 AM :Info: Filtered ini: 0.009285ms
+12/24/19, 1:34:40 AM :Info: No iniVersion defined
+12/24/19, 1:34:40 AM :Info: Loading Trigger Wheels
+12/24/19, 1:34:40 AM :Info: Loaded All known ini sections
+12/24/19, 1:34:40 AM :Info: Parsed and validated ini "canPcVariables.ini" in : 1ms.
+12/24/19, 1:34:40 AM :Info: Read file mainController.ini: 7.384793ms
+12/24/19, 1:34:40 AM :Info: Filtered ini: 27.120647ms
+12/24/19, 1:34:40 AM :Info: No iniVersion defined
+12/24/19, 1:34:40 AM :Debug: ini signature: speeduino 201912-dev
+12/24/19, 1:34:40 AM :Info: Loading Trigger Wheels
+12/24/19, 1:34:40 AM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+12/24/19, 1:34:40 AM :Info: Loaded All known ini sections
+12/24/19, 1:34:40 AM :Info: Parsed and validated ini "mainController.ini" in : 149ms.
+12/24/19, 1:34:40 AM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+12/24/19, 1:34:40 AM :Info: Time to load primary config: 179.58948ms. used cached config: false
+12/24/19, 1:34:40 AM :Info: Supported iniSpecVersion=3.51
+12/24/19, 1:34:40 AM :Debug: Adding Configuration: GF6-EJ204-2019-11-17
+12/24/19, 1:34:40 AM :Debug: Fill Constants: 5
+12/24/19, 1:34:40 AM :Info: Tune opened, 2305 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/CurrentTune.msq
+12/24/19, 1:34:40 AM :Info: Tune opened, 2305 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/CurrentTune.msq
+12/24/19, 1:34:40 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:34:40 AM :Info: !!! Loaded config in 266
+12/24/19, 1:34:41 AM :Info: Com Thread created: COMM Thread75291.74560236011
+12/24/19, 1:34:41 AM :Info: !!! Activated Project 649
+12/24/19, 1:34:41 AM :Info: Opening Gauge Cluster..
+12/24/19, 1:34:41 AM :Info: Comm Manager for GF6-EJ204-2019-11-17 Started, thread ID: COMM Thread75291.74560236011
+12/24/19, 1:34:41 AM :Info: Comm Read Thread Change! Old Thread:null, new Thread:COMM Thread75291.74560236011
+12/24/19, 1:34:41 AM :Info: Time to load uncached dash: 169.06595ms, file: dashboard.dash
+12/24/19, 1:34:41 AM :Debug: Deactivated fast paint Main Dashboard
+12/24/19, 1:34:41 AM :Debug: High Speed Paint: true
+12/24/19, 1:34:41 AM :Info: 
+12/24/19, 1:34:41 AM :Debug: !!! Opened Dash 1236
+12/24/19, 1:34:41 AM :Info: GF6-EJ204-2019-11-17 Ready
+12/24/19, 1:34:41 AM :Debug: Tuning View Files loaded in 75.955086ms.
+12/24/19, 1:34:41 AM :Info: GF6-EJ204-2019-11-17 ComThread stopped COMM Thread80217.98504935388
+12/24/19, 1:34:43 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x32       speeduino.201912
+x2D x64 x65 x76                                                       -dev
+12/24/19, 1:34:45 AM :Info: Communicating with sig:speeduino 201912-dev, Speeduino 2019.12-dev
+12/24/19, 1:34:45 AM :Debug: CRC matches for page 1:x32 x67 xAC x66                                                       2g.f
+12/24/19, 1:34:45 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:34:45 AM :Debug: CRC matches for page 2:xB2 x07 x92 x65                                                       ...e
+12/24/19, 1:34:45 AM :Info: CrC matched skipped controller read on page:1
+12/24/19, 1:34:45 AM :Debug: CRC matches for page 3:xC1 xF5 xFA x37                                                       ...7
+12/24/19, 1:34:45 AM :Info: CrC matched skipped controller read on page:2
+12/24/19, 1:34:45 AM :Debug: CRC matches for page 4:x3C xCE x70 xDD                                                       <.p.
+12/24/19, 1:34:45 AM :Info: CrC matched skipped controller read on page:3
+12/24/19, 1:34:46 AM :Debug: CRC matches for page 5:x2E xF5 xFF xC4                                                       ....
+12/24/19, 1:34:46 AM :Info: CrC matched skipped controller read on page:4
+12/24/19, 1:34:46 AM :Debug: CRC matches for page 6:xE4 x4C x38 xB9                                                       .L8.
+12/24/19, 1:34:46 AM :Info: CrC matched skipped controller read on page:5
+12/24/19, 1:34:46 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+12/24/19, 1:34:46 AM :Info: CrC matched skipped controller read on page:6
+12/24/19, 1:34:46 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+12/24/19, 1:34:46 AM :Info: CrC matched skipped controller read on page:7
+12/24/19, 1:34:46 AM :Info: CRC Mismatch, will need to refresh page from controller 
+12/24/19, 1:34:46 AM :Info:    CRC from controller page 9:xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:34:46 AM :Info:    Local Data CRC for page 9: x8C xF8 x34 xB4                                                       ..4.
+12/24/19, 1:34:46 AM :Debug: Read page time: 358ms.
+12/24/19, 1:34:46 AM :Info: Checksum page 9 data read: xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:34:46 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:34:46 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:34:47 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:34:47 AM :Info: CrC matched skipped controller read on page:10
+12/24/19, 1:34:47 AM :Debug: Read All Data
+12/24/19, 1:34:47 AM :Debug: isBlank Time: 0 ms.
+12/24/19, 1:34:47 AM :Debug: DiffTime: 4 ms.
+12/24/19, 1:34:49 AM :Info: dr: 0:83
+12/24/19, 1:34:49 AM :Debug: Range Sort Time: 0
+12/24/19, 1:35:07 AM :Debug: Deactivated fast paint Main Dashboard
+12/24/19, 1:35:07 AM :Info: dr: 0:83
+12/24/19, 1:35:07 AM :Debug: Range Sort Time: 0
+12/24/19, 1:35:13 AM :Info: Initiating read page 1 : 38:32
+12/24/19, 1:35:13 AM :Info: Initiating read page 6 : 13:48
+12/24/19, 1:35:13 AM :Info: Initiating read page 10 : 8:1
+12/24/19, 1:35:13 AM :Debug: CRC matches for page 1:x32 x67 xAC x66                                                       2g.f
+12/24/19, 1:35:13 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:35:13 AM :Debug: CRC matches for page 6:xE4 x4C x38 xB9                                                       .L8.
+12/24/19, 1:35:13 AM :Info: CrC matched skipped controller read on page:5
+12/24/19, 1:35:13 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:35:13 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:35:21 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:35:21 AM :Debug: No Remaining Queue Write instructions
+
+12/24/19, 1:35:22 AM :Debug: Purged 84 orphaned bytes:
+12/24/19, 1:35:22 AM :Debug: Time:41.549s. 0x21 0x0 0x0 0x0 0xD 0x0 0x3D 0x7A 0x0 0x0 0x68 0x64 0x0 0x0 0x0 0x0 0x0 0x0 0x30 0x30 0x0 0x0 0x0 0x0 0x0 0x27 0x15 0xB1 0x1 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x36 0x3A 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x12 0x1 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x40 
+12/24/19, 1:35:22 AM :Debug: Time:41.549s. 
+
+12/24/19, 1:35:22 AM :Debug: Time:41.549s.   !    .    .    .    .    .    =    z    .    .    h    d    .    .    .    .    .    .    0    0    .    .    .    .    .    '    .    .    .    .    .    .    .    .    .    .    .    .    .    6    :    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    @  
+
+12/24/19, 1:35:29 AM :Debug: Purged 84 orphaned bytes:
+12/24/19, 1:35:29 AM :Debug: Time:48.699s. 0x28 0x0 0x0 0x0 0xD 0x0 0x3D 0x7A 0x0 0x0 0x68 0x64 0x0 0x0 0x0 0x0 0x0 0x0 0x30 0x30 0x0 0x0 0x0 0x0 0x0 0x24 0x15 0xB1 0x1 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x36 0x3A 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x13 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x40 
+12/24/19, 1:35:29 AM :Debug: Time:48.699s. 
+
+12/24/19, 1:35:29 AM :Debug: Time:48.7s.   (    .    .    .    .    .    =    z    .    .    h    d    .    .    .    .    .    .    0    0    .    .    .    .    .    $    .    .    .    .    .    .    .    .    .    .    .    .    .    6    :    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    @  
+12/24/19, 1:35:40 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:35:40 AM :Debug: Burn Page anonymous: 1
+12/24/19, 1:35:40 AM :Info: Queueing burn to page:1
+12/24/19, 1:35:40 AM :Debug: Burn time:21ms.
+12/24/19, 1:35:40 AM :Debug: burned page 1
+12/24/19, 1:35:40 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:35:40 AM :Info: Time to save msq: 21.445852
+12/24/19, 1:35:40 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:35:43 AM :Debug: Flush lasted: 1ms.
+12/24/19, 1:35:53 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:35:53 AM :Debug: Went offline
+12/24/19, 1:35:53 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:35:53 AM :Info: Closing Port
+12/24/19, 1:35:53 AM :Info: Successfully Closed Port
+12/24/19, 1:35:53 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:35:53 AM :Info: Went offline 2
+12/24/19, 1:35:57 AM :Info: Opening port: /dev/rfcomm0
+12/24/19, 1:36:00 AM :Debug: Error trying to go online: No bytes found on unknown read size. timeout x2: 2000
+Dec 24, 2019 1:36:00 AM h.q run
+SEVERE: z.b: No bytes found on unknown read size. timeout x2: 2000
+z.b: No bytes found on unknown read size. timeout x2: 2000
+	at h.p.a(Unknown Source)
+	at l.G.a(Unknown Source)
+	at l.G.b(Unknown Source)
+	at l.G.d(Unknown Source)
+	at h.p.a(Unknown Source)
+	at h.q.run(Unknown Source)
+
+12/24/19, 1:36:04 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:36:04 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:36:04 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:36:04 AM :Debug: goOffline about to stopProcessing, Time:1
+12/24/19, 1:36:04 AM :Debug: goOffline closed port, Time:1
+12/24/19, 1:36:04 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:36:04 AM :Info: Closing Port
+12/24/19, 1:36:09 AM :Debug: goOffline comm thread stopped, Time:5017
+12/24/19, 1:36:09 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:36:09 AM :Info: Successfully Closed Port
+12/24/19, 1:36:09 AM :Info: GF6-EJ204-2019-11-17 ComThread stopped COMM Thread75291.74560236011
+12/24/19, 1:36:20 AM :Info: Com Thread created: COMM Thread64275.86595748933
+12/24/19, 1:36:20 AM :Info: Comm Manager for GF6-EJ204-2019-11-17 Started, thread ID: COMM Thread64275.86595748933
+12/24/19, 1:36:20 AM :Info: Opening port: /dev/rfcomm0
+12/24/19, 1:36:21 AM :Info: Comm Read Thread Change! Old Thread:COMM Thread75291.74560236011, new Thread:COMM Thread64275.86595748933
+12/24/19, 1:36:23 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x32       speeduino.201912
+x2D x64 x65 x76                                                       -dev
+12/24/19, 1:36:25 AM :Info: Communicating with sig:speeduino 201912-dev, Speeduino 2019.12-dev
+12/24/19, 1:36:25 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:36:25 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:36:25 AM :Debug: CRC matches for page 2:xB2 x07 x92 x65                                                       ...e
+12/24/19, 1:36:25 AM :Info: CrC matched skipped controller read on page:1
+12/24/19, 1:36:26 AM :Debug: CRC matches for page 3:xC1 xF5 xFA x37                                                       ...7
+12/24/19, 1:36:26 AM :Info: CrC matched skipped controller read on page:2
+12/24/19, 1:36:26 AM :Debug: CRC matches for page 4:x3C xCE x70 xDD                                                       <.p.
+12/24/19, 1:36:26 AM :Info: CrC matched skipped controller read on page:3
+12/24/19, 1:36:26 AM :Debug: CRC matches for page 5:x2E xF5 xFF xC4                                                       ....
+12/24/19, 1:36:26 AM :Info: CrC matched skipped controller read on page:4
+12/24/19, 1:36:26 AM :Info: CRC Mismatch, will need to refresh page from controller 
+12/24/19, 1:36:26 AM :Info:    CRC from controller page 6:xE4 x4C x38 xB9                                                       .L8.
+12/24/19, 1:36:26 AM :Info:    Local Data CRC for page 6: x10 x88 x99 x57                                                       ...W
+12/24/19, 1:36:26 AM :Debug: Read page time: 367ms.
+12/24/19, 1:36:26 AM :Info: Checksum page 6 data read: xE4 x4C x38 xB9                                                       .L8.
+12/24/19, 1:36:26 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+12/24/19, 1:36:26 AM :Info: CrC matched skipped controller read on page:6
+12/24/19, 1:36:26 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+12/24/19, 1:36:26 AM :Info: CrC matched skipped controller read on page:7
+12/24/19, 1:36:27 AM :Debug: CRC matches for page 9:xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:36:27 AM :Info: CrC matched skipped controller read on page:8
+12/24/19, 1:36:27 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:36:27 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:36:27 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:36:27 AM :Info: CrC matched skipped controller read on page:10
+12/24/19, 1:36:27 AM :Debug: Read All Data
+12/24/19, 1:36:27 AM :Debug: isBlank Time: 0 ms.
+12/24/19, 1:36:27 AM :Debug: DiffTime: 3 ms.
+12/24/19, 1:36:27 AM :Info: Difference Report disabling shared table Models
+12/24/19, 1:39:19 AM :Info: Time to save msq: 17.52368
+12/24/19, 1:39:19 AM :Debug: Flush lasted: 171ms.
+12/24/19, 1:39:19 AM :Debug: Burn Page anonymous: 6
+12/24/19, 1:39:19 AM :Info: Queueing burn to page:6
+12/24/19, 1:39:19 AM :Info: Sending, 1 bytes.
+12/24/19, 1:39:19 AM :Info: Loaded Restore point /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/CurrentTune.msq
+	Sending, 1 bytes.
+12/24/19, 1:39:19 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:39:19 AM :Info: Difference Report enabling shared table Models
+12/24/19, 1:39:19 AM :Debug: Burn time:20ms.
+12/24/19, 1:39:19 AM :Debug: burned page 6
+12/24/19, 1:39:19 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:39:19 AM :Info: Time to save msq: 15.660419
+12/24/19, 1:39:19 AM :Debug: CRC matches for page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:39:19 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:39:19 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:39:20 AM :Debug: CRC matches for page 2:xB2 x07 x92 x65                                                       ...e
+12/24/19, 1:39:20 AM :Info: CrC matched skipped controller read on page:1
+12/24/19, 1:39:20 AM :Debug: CRC matches for page 3:xC1 xF5 xFA x37                                                       ...7
+12/24/19, 1:39:20 AM :Info: CrC matched skipped controller read on page:2
+12/24/19, 1:39:20 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:39:20 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:39:20 AM :Debug: CRC matches for page 4:x3C xCE x70 xDD                                                       <.p.
+12/24/19, 1:39:20 AM :Info: CrC matched skipped controller read on page:3
+12/24/19, 1:39:20 AM :Debug: CRC matches for page 5:x2E xF5 xFF xC4                                                       ....
+12/24/19, 1:39:20 AM :Info: CrC matched skipped controller read on page:4
+12/24/19, 1:39:20 AM :Debug: CRC matches for page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:39:20 AM :Info: CrC matched skipped controller read on page:5
+12/24/19, 1:39:20 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+12/24/19, 1:39:20 AM :Info: CrC matched skipped controller read on page:6
+12/24/19, 1:39:20 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+12/24/19, 1:39:20 AM :Info: CrC matched skipped controller read on page:7
+12/24/19, 1:39:20 AM :Debug: CRC matches for page 9:xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:39:20 AM :Info: CrC matched skipped controller read on page:8
+12/24/19, 1:39:20 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:39:20 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:39:21 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:39:21 AM :Info: CrC matched skipped controller read on page:10
+12/24/19, 1:39:21 AM :Debug: Read All Data
+12/24/19, 1:39:21 AM :Debug: isBlank Time: 0 ms.
+12/24/19, 1:39:21 AM :Debug: DiffTime: 2 ms.
+12/24/19, 1:39:52 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:39:52 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:39:52 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:39:52 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:39:52 AM :Debug: goOffline about to stopProcessing, Time:250
+12/24/19, 1:39:52 AM :Debug: goOffline about to stopProcessing, Time:251
+12/24/19, 1:39:52 AM :Debug: goOffline Notified offline, Time:261
+12/24/19, 1:39:52 AM :Debug: goOffline closed port, Time:261
+12/24/19, 1:39:52 AM :Debug: goOffline Notified offline, Time:261
+12/24/19, 1:39:52 AM :Debug: goOffline closed port, Time:261
+12/24/19, 1:39:52 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:39:52 AM :Info: Closing Port
+12/24/19, 1:39:52 AM :Info: Successfully Closed Port
+12/24/19, 1:39:52 AM :Info: GF6-EJ204-2019-11-17 ComThread stopped COMM Thread64275.86595748933
+12/24/19, 1:39:52 AM :Debug: goOffline comm thread stopped, Time:512
+12/24/19, 1:39:52 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:39:53 AM :Debug: goOffline comm thread stopped, Time:761
+12/24/19, 1:39:53 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:39:56 AM :Info: Com Thread created: COMM Thread25763.526969679508
+12/24/19, 1:39:56 AM :Info: Comm Manager for GF6-EJ204-2019-11-17 Started, thread ID: COMM Thread25763.526969679508
+12/24/19, 1:39:56 AM :Info: Opening port: /dev/rfcomm0
+12/24/19, 1:39:57 AM :Info: Comm Read Thread Change! Old Thread:COMM Thread64275.86595748933, new Thread:COMM Thread25763.526969679508
+12/24/19, 1:39:59 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x32       speeduino.201912
+x2D x64 x65 x76                                                       -dev
+12/24/19, 1:40:01 AM :Info: Communicating with sig:speeduino 201912-dev, Speeduino 2019.12-dev
+12/24/19, 1:40:07 AM :Info: Initiating read page 1 : 38:32
+12/24/19, 1:40:07 AM :Info: Initiating read page 6 : 13:48
+12/24/19, 1:40:07 AM :Info: Initiating read page 10 : 8:1
+12/24/19, 1:40:07 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:40:07 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:40:07 AM :Debug: CRC matches for page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:40:07 AM :Info: CrC matched skipped controller read on page:5
+12/24/19, 1:40:07 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:40:07 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:43:12 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:43:22 AM :Info: dr: 0:83
+12/24/19, 1:43:22 AM :Debug: Range Sort Time: 0
+12/24/19, 1:43:38 AM :Info: dr: 0:83
+12/24/19, 1:43:38 AM :Debug: Range Sort Time: 0
+12/24/19, 1:43:49 AM :Info: Initiating read page 1 : 38:32
+12/24/19, 1:43:49 AM :Info: Initiating read page 6 : 13:48
+12/24/19, 1:43:49 AM :Info: Initiating read page 10 : 8:1
+12/24/19, 1:43:50 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:43:50 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:43:50 AM :Debug: CRC matches for page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:43:50 AM :Info: CrC matched skipped controller read on page:5
+12/24/19, 1:43:50 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:43:50 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:44:55 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:44:55 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:44:55 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:44:55 AM :Debug: Burn Page anonymous: 6
+12/24/19, 1:44:55 AM :Info: Queueing burn to page:6
+
+12/24/19, 1:44:56 AM :Debug: Purged 84 orphaned bytes:
+12/24/19, 1:44:56 AM :Debug: Time:615.658s. 0x26 0x0 0x0 0x0 0xD 0x0 0x3D 0x7A 0x0 0x0 0x73 0x64 0x0 0x0 0x0 0x0 0x0 0x0 0x30 0x30 0x0 0x0 0x0 0x0 0xE 0x2E 0x15 0xB1 0x1 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x36 0x3 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x33 0x2 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x40 
+12/24/19, 1:44:56 AM :Debug: Time:615.658s. 
+
+12/24/19, 1:44:56 AM :Debug: Time:615.658s.   &    .    .    .    .    .    =    z    .    .    s    d    .    .    .    .    .    .    0    0    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    6    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    3    .    .    .    .    .    .    .    .    .    @  
+12/24/19, 1:44:56 AM :Debug: Burn time:25ms.
+12/24/19, 1:44:56 AM :Debug: burned page 6
+12/24/19, 1:44:56 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:44:56 AM :Info: Time to save msq: 14.20733
+12/24/19, 1:44:56 AM :Debug: CRC matches for page 6:xF5 xE4 x04 x32                                                       ...2
+12/24/19, 1:44:59 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:44:59 AM :Debug: No Remaining Queue Write instructions
+
+12/24/19, 1:45:01 AM :Debug: Purged 84 orphaned bytes:
+12/24/19, 1:45:01 AM :Debug: Time:620.41s. 0x2A 0x0 0x0 0x0 0xD 0x0 0x3D 0x7A 0x0 0x0 0x73 0x64 0x0 0x0 0x0 0x0 0x0 0x0 0x30 0x30 0x0 0x0 0x0 0x0 0xE 0x23 0x15 0xB1 0x1 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x36 0x3 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x33 0x2 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x40 
+12/24/19, 1:45:01 AM :Debug: Time:620.41s. 
+
+12/24/19, 1:45:01 AM :Debug: Time:620.41s.   *    .    .    .    .    .    =    z    .    .    s    d    .    .    .    .    .    .    0    0    .    .    .    .    .    #    .    .    .    .    .    .    .    .    .    .    .    .    .    6    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    3    .    .    .    .    .    .    .    .    .    @  
+12/24/19, 1:45:01 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:45:01 AM :Debug: Burn Page anonymous: 6
+12/24/19, 1:45:01 AM :Info: Queueing burn to page:6
+12/24/19, 1:45:01 AM :Debug: Burn time:21ms.
+12/24/19, 1:45:01 AM :Debug: burned page 6
+12/24/19, 1:45:01 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:45:01 AM :Info: Time to save msq: 5.507026
+12/24/19, 1:45:01 AM :Debug: CRC matches for page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:45:03 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:45:06 AM :Info: Time to save msq: 7.422611
+12/24/19, 1:45:06 AM :Info: closeApp Called
+12/24/19, 1:45:06 AM :Debug: TuneLog Editor set text
+12/24/19, 1:45:06 AM :Debug: Fill Constants: 6
+12/24/19, 1:45:06 AM :Debug: File does not exist, creating new:
+/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/restorePoints/GF6-EJ204-2019-11-17_2019-12-24_01.45.06.msq
+12/24/19, 1:45:06 AM :Info: Time to save msq: 6.820543
+12/24/19, 1:45:06 AM :Info: GF6-EJ204-2019-11-17 Restore point saved
+12/24/19, 1:45:06 AM :Info: GF6-EJ204-2019-11-17 Restore point saved to: GF6-EJ204-2019-11-17_2019-12-24_01.45.06.msq
+12/24/19, 1:45:06 AM :Info: Time to save msq: 6.271994
+12/24/19, 1:45:07 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:45:07 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:45:08 AM :Debug: goOffline about to stopProcessing, Time:250
+12/24/19, 1:45:08 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:45:08 AM :Info: Closing Port
+12/24/19, 1:45:08 AM :Info: Successfully Closed Port
+12/24/19, 1:45:08 AM :Debug: goOffline Notified offline, Time:265
+12/24/19, 1:45:08 AM :Debug: goOffline closed port, Time:265
+12/24/19, 1:45:08 AM :Info: GF6-EJ204-2019-11-17 ComThread stopped COMM Thread25763.526969679508
+12/24/19, 1:45:08 AM :Debug: goOffline comm thread stopped, Time:365
+12/24/19, 1:45:08 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:45:11 AM :Info: Time to load non-cached dashboard: 44.957066 ms. file:dashboard.dash
+12/24/19, 1:45:11 AM :Debug: Time to save dashboard: 48.93848ms. file: /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/dashboard/dashboard.dash
+12/24/19, 1:45:11 AM :Debug: removing Configuration: GF6-EJ204-2019-11-17
+12/24/19, 1:45:11 AM :Debug: ############################################# Save Project ##########################################
+12/24/19, 1:45:11 AM :Info: Finalizing Sensors
+Saved user properties successfully
+Starting on Kino
+TunerStudio 3.0.28 started on Tue Dec 24 01:45:41 PST 2019
+JRE 11.0.5, Linux 5.3.0-24-generic, amd64
+java.library.path=lib/alternateLinuxDrivers/x86_64-linux:lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:GTK+, ClassName:'com.sun.java.swing.plaf.gtk.GTKLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+12/24/19, 1:45:42 AM :Debug: no update:defaultFont
+12/24/19, 1:45:45 AM :Info: Loading Language Content.
+12/24/19, 1:45:45 AM :Info: Initializing File Dialogs.
+12/24/19, 1:45:45 AM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+12/24/19, 1:45:45 AM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+12/24/19, 1:45:45 AM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+12/24/19, 1:45:45 AM :Info: Initializing Plugin Services.
+12/24/19, 1:45:45 AM :Info: Loading Plugins.
+12/24/19, 1:45:45 AM :Info: Initializing Help.
+12/24/19, 1:45:45 AM :Info: Initializing Edition Features.
+12/24/19, 1:45:45 AM :Info: Initializing App Events.
+12/24/19, 1:45:45 AM :Debug: App Name:TunerStudio, appEdition:MS
+12/24/19, 1:45:45 AM :Info: Initializing User Interface
+12/24/19, 1:45:45 AM :Warning: Unable to set Main cluster for title:
+12/24/19, 1:45:46 AM :Info: Error Sorting Dialog: column beyond range of TableModel
+12/24/19, 1:45:47 AM :Info: Loading Font list.
+12/24/19, 1:45:47 AM :Debug: Time to retreive font name list: 20 ms.
+12/24/19, 1:45:47 AM :Info: 
+12/24/19, 1:45:47 AM :Info: Initializing UI Components.
+12/24/19, 1:45:47 AM :Info: Ready
+12/24/19, 1:45:47 AM :Info: Opening Project ...
+12/24/19, 1:45:47 AM :Debug: Opening project: /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17
+12/24/19, 1:45:47 AM :Debug: Reading translation file as plain text
+12/24/19, 1:45:47 AM :Debug: EventTrigger Data log Reset. expression: 
+12/24/19, 1:45:47 AM :Debug: EventTrigger Stop Data log Reset. expression: 
+12/24/19, 1:45:47 AM :Info: Supported iniSpecVersion=3.51
+12/24/19, 1:45:47 AM :Debug: Filtered ConfigurationOptionGroup in 26ms.
+12/24/19, 1:45:47 AM :Info: Supported iniSpecVersion=3.51
+12/24/19, 1:45:47 AM :Info: Read file canPcVariables.ini: 0.21623ms
+12/24/19, 1:45:47 AM :Info: Filtered ini: 0.046395ms
+12/24/19, 1:45:47 AM :Info: No iniVersion defined
+12/24/19, 1:45:47 AM :Info: Loading Trigger Wheels
+12/24/19, 1:45:47 AM :Info: Loaded All known ini sections
+12/24/19, 1:45:47 AM :Info: Parsed and validated ini "canPcVariables.ini" in : 13ms.
+12/24/19, 1:45:47 AM :Info: Read file mainController.ini: 9.095178ms
+12/24/19, 1:45:47 AM :Info: Filtered ini: 2.485626ms
+12/24/19, 1:45:47 AM :Info: No iniVersion defined
+12/24/19, 1:45:47 AM :Debug: ini signature: speeduino 201912-dev
+12/24/19, 1:45:47 AM :Info: Loading Trigger Wheels
+12/24/19, 1:45:47 AM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+12/24/19, 1:45:47 AM :Info: Loaded All known ini sections
+12/24/19, 1:45:47 AM :Info: Parsed and validated ini "mainController.ini" in : 165ms.
+12/24/19, 1:45:47 AM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+12/24/19, 1:45:47 AM :Info: Time to load primary config: 284.3668ms. used cached config: false
+12/24/19, 1:45:47 AM :Info: Supported iniSpecVersion=3.51
+12/24/19, 1:45:47 AM :Debug: Adding Configuration: GF6-EJ204-2019-11-17
+12/24/19, 1:45:47 AM :Debug: Fill Constants: 16
+12/24/19, 1:45:48 AM :Info: Tune opened, 2306 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/CurrentTune.msq
+12/24/19, 1:45:48 AM :Info: Tune opened, 2306 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/CurrentTune.msq
+12/24/19, 1:45:48 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:45:48 AM :Info: !!! Loaded config in 502
+12/24/19, 1:45:48 AM :Info: Com Thread created: COMM Thread41888.80686235508
+12/24/19, 1:45:48 AM :Info: !!! Activated Project 1088
+12/24/19, 1:45:48 AM :Info: Opening Gauge Cluster..
+12/24/19, 1:45:48 AM :Info: Comm Manager for GF6-EJ204-2019-11-17 Started, thread ID: COMM Thread41888.80686235508
+12/24/19, 1:45:48 AM :Info: Opening port: /dev/rfcomm0
+12/24/19, 1:45:48 AM :Info: Time to load uncached dash: 151.34798ms, file: dashboard.dash
+MSmain: No check, last update check=Mon Dec 23 19:57:01 PST 2019
+12/24/19, 1:45:49 AM :Debug: High Speed Paint: true
+12/24/19, 1:45:49 AM :Info: 
+12/24/19, 1:45:49 AM :Debug: !!! Opened Dash 1678
+12/24/19, 1:45:49 AM :Info: GF6-EJ204-2019-11-17 Ready
+12/24/19, 1:45:49 AM :Debug: Tuning View Files loaded in 90.49737ms.
+12/24/19, 1:45:49 AM :Info: Comm Read Thread Change! Old Thread:null, new Thread:COMM Thread41888.80686235508
+MSad: No check, last update check=Mon Dec 23 19:57:04 PST 2019
+12/24/19, 1:45:51 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x32       speeduino.201912
+x2D x64 x65 x76                                                       -dev
+12/24/19, 1:45:53 AM :Info: Communicating with sig:speeduino 201912-dev, Speeduino 2019.12-dev
+12/24/19, 1:45:54 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:45:54 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:45:54 AM :Debug: CRC matches for page 2:xB2 x07 x92 x65                                                       ...e
+12/24/19, 1:45:54 AM :Info: CrC matched skipped controller read on page:1
+12/24/19, 1:45:54 AM :Debug: CRC matches for page 3:xC1 xF5 xFA x37                                                       ...7
+12/24/19, 1:45:54 AM :Info: CrC matched skipped controller read on page:2
+12/24/19, 1:45:54 AM :Debug: CRC matches for page 4:x3C xCE x70 xDD                                                       <.p.
+12/24/19, 1:45:54 AM :Info: CrC matched skipped controller read on page:3
+12/24/19, 1:45:54 AM :Debug: CRC matches for page 5:x2E xF5 xFF xC4                                                       ....
+12/24/19, 1:45:54 AM :Info: CrC matched skipped controller read on page:4
+12/24/19, 1:45:54 AM :Debug: CRC matches for page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:45:54 AM :Info: CrC matched skipped controller read on page:5
+12/24/19, 1:45:54 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+12/24/19, 1:45:54 AM :Info: CrC matched skipped controller read on page:6
+12/24/19, 1:45:54 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+12/24/19, 1:45:54 AM :Info: CrC matched skipped controller read on page:7
+12/24/19, 1:45:55 AM :Info: CRC Mismatch, will need to refresh page from controller 
+12/24/19, 1:45:55 AM :Info:    CRC from controller page 9:xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:45:55 AM :Info:    Local Data CRC for page 9: x8C xF8 x34 xB4                                                       ..4.
+12/24/19, 1:45:55 AM :Debug: Read page time: 408ms.
+12/24/19, 1:45:55 AM :Info: Checksum page 9 data read: xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:45:55 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:45:55 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:45:55 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:45:55 AM :Info: CrC matched skipped controller read on page:10
+12/24/19, 1:45:55 AM :Debug: Read All Data
+12/24/19, 1:45:55 AM :Debug: isBlank Time: 0 ms.
+12/24/19, 1:45:55 AM :Debug: DiffTime: 9 ms.
+12/24/19, 1:45:57 AM :Info: dr: 0:83
+12/24/19, 1:45:57 AM :Debug: Range Sort Time: 1
+12/24/19, 1:47:13 AM :Debug: Fill Constants: 21
+12/24/19, 1:47:14 AM :Debug: File does not exist, creating new:
+/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/restorePoints/GF6-EJ204-2019-11-17_2019-12-24_01.47.13.msq
+12/24/19, 1:47:14 AM :Info: Time to save msq: 155.13199
+12/24/19, 1:47:14 AM :Info: GF6-EJ204-2019-11-17 Restore point saved
+12/24/19, 1:47:14 AM :Info: GF6-EJ204-2019-11-17 Restore point saved to: GF6-EJ204-2019-11-17_2019-12-24_01.47.13.msq
+12/24/19, 1:47:14 AM :Debug: Writing to protected region
+12/24/19, 1:47:14 AM :Info: Tune opened, 856 bytes updated. File:/home/john/Projects/speeduino/reference/Base Tunes/Speeduino base tune.msq
+12/24/19, 1:47:14 AM :Info: Tune opened, 856 bytes updated. File:/home/john/Projects/speeduino/reference/Base Tunes/Speeduino base tune.msq
+12/24/19, 1:47:14 AM :Debug: Flush lasted: 107ms.
+12/24/19, 1:47:14 AM :Debug: Burn Page anonymous: 6
+12/24/19, 1:47:14 AM :Info: Queueing burn to page:6
+12/24/19, 1:47:14 AM :Debug: Activate Page, burn page 1 new active page=2
+12/24/19, 1:47:14 AM :Debug: Burn time:20ms.
+12/24/19, 1:47:14 AM :Debug: burned page 1
+12/24/19, 1:47:15 AM :Debug: Queued Write instructions:7 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:16 AM :Debug: Queued Write instructions:7 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:17 AM :Debug: CRC matches for page 1:x6E xDC x73 xB5                                                       n.s.
+12/24/19, 1:47:17 AM :Debug: Queued Write instructions:7 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:18 AM :Debug: Queued Write instructions:7 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:18 AM :Debug: Activate Page, burn page 2 new active page=3
+12/24/19, 1:47:18 AM :Debug: Burn time:20ms.
+12/24/19, 1:47:18 AM :Debug: burned page 2
+12/24/19, 1:47:19 AM :Debug: Queued Write instructions:6 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:20 AM :Debug: Queued Write instructions:6 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:21 AM :Debug: Queued Write instructions:6 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:22 AM :Debug: Queued Write instructions:6 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:23 AM :Debug: Queued Write instructions:6 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:24 AM :Debug: Queued Write instructions:6 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:25 AM :Debug: Queued Write instructions:6 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:25 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:47:25 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:47:25 AM :Debug: Burn Page anonymous: -1
+12/24/19, 1:47:25 AM :Info: skip burn to page:6, lastWritePage = -2
+12/24/19, 1:47:26 AM :Debug: goOffline about to stopProcessing, Time:251
+12/24/19, 1:47:26 AM :Debug: goOffline Notified offline, Time:272
+12/24/19, 1:47:26 AM :Debug: goOffline closed port, Time:272
+12/24/19, 1:47:26 AM :Debug: Deactivated fast paint Main Dashboard
+12/24/19, 1:47:26 AM :Debug: Queued Write instructions:6 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:26 AM :Debug: goOffline comm thread stopped, Time:772
+12/24/19, 1:47:26 AM :Debug: Queued Write instructions:6 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:27 AM :Debug: Queued Write instructions:6 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:28 AM :Debug: Queued Write instructions:6 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:47:28 AM :Info: Going offline before all changes were permanently saved to the Controller.
+
+12/24/19, 1:47:28 AM :Debug: Purged 4 orphaned bytes:
+12/24/19, 1:47:28 AM :Debug: Time:100.804s. 0x96 0x4F 0x59 0x44 
+12/24/19, 1:47:28 AM :Debug: Time:100.804s. 
+
+12/24/19, 1:47:28 AM :Debug: Time:100.804s.   .    O    Y    D  
+12/24/19, 1:47:29 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:47:30 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:47:30 AM :Info: Closing Port
+12/24/19, 1:47:30 AM :Info: Successfully Closed Port
+12/24/19, 1:47:30 AM :Info: GF6-EJ204-2019-11-17 ComThread stopped COMM Thread41888.80686235508
+12/24/19, 1:47:58 AM :Info: Com Thread created: COMM Thread6445.423780561366
+12/24/19, 1:47:58 AM :Info: Comm Manager for GF6-EJ204-2019-11-17 Started, thread ID: COMM Thread6445.423780561366
+12/24/19, 1:47:58 AM :Info: Opening port: /dev/rfcomm0
+12/24/19, 1:47:59 AM :Info: Comm Read Thread Change! Old Thread:COMM Thread41888.80686235508, new Thread:COMM Thread6445.423780561366
+12/24/19, 1:48:01 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x32       speeduino.201912
+x2D x64 x65 x76                                                       -dev
+12/24/19, 1:48:03 AM :Info: Communicating with sig:speeduino 201912-dev, Speeduino 2019.12-dev
+12/24/19, 1:48:04 AM :Debug: CRC matches for page 1:x6E xDC x73 xB5                                                       n.s.
+12/24/19, 1:48:04 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:48:04 AM :Debug: CRC matches for page 2:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:48:04 AM :Info: CrC matched skipped controller read on page:1
+12/24/19, 1:48:04 AM :Info: CRC Mismatch, will need to refresh page from controller 
+12/24/19, 1:48:04 AM :Info:    CRC from controller page 3:xB5 x0A xF5 x16                                                       ....
+12/24/19, 1:48:04 AM :Info:    Local Data CRC for page 3: xB4 x6E x49 xFF                                                       .nI.
+12/24/19, 1:48:04 AM :Debug: Read page time: 408ms.
+12/24/19, 1:48:04 AM :Info: Checksum page 3 data read: xB5 x0A xF5 x16                                                       ....
+12/24/19, 1:48:04 AM :Info: CRC Mismatch, will need to refresh page from controller 
+12/24/19, 1:48:04 AM :Info:    CRC from controller page 4:x3C xCE x70 xDD                                                       <.p.
+12/24/19, 1:48:04 AM :Info:    Local Data CRC for page 4: x6B x72 x41 xB3                                                       krA.
+12/24/19, 1:48:04 AM :Debug: Activate Page, burn page 3 new active page=4
+12/24/19, 1:48:04 AM :Debug: Burn time:20ms.
+12/24/19, 1:48:04 AM :Debug: burned page 3
+12/24/19, 1:48:05 AM :Debug: CRC matches for page 3:xB5 x0A xF5 x16                                                       ....
+12/24/19, 1:48:05 AM :Debug: Read page time: 640ms.
+12/24/19, 1:48:05 AM :Info: Checksum page 4 data read: x3C xCE x70 xDD                                                       <.p.
+12/24/19, 1:48:05 AM :Info: CRC Mismatch, will need to refresh page from controller 
+12/24/19, 1:48:05 AM :Info:    CRC from controller page 5:x2E xF5 xFF xC4                                                       ....
+12/24/19, 1:48:05 AM :Info:    Local Data CRC for page 5: x88 x05 x17 xC9                                                       ....
+12/24/19, 1:48:05 AM :Debug: Read page time: 353ms.
+12/24/19, 1:48:05 AM :Info: Checksum page 5 data read: x2E xF5 xFF xC4                                                       ....
+12/24/19, 1:48:05 AM :Info: CRC Mismatch, will need to refresh page from controller 
+12/24/19, 1:48:05 AM :Info:    CRC from controller page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:48:05 AM :Info:    Local Data CRC for page 6: xB8 x15 x6B x8D                                                       ..k.
+12/24/19, 1:48:06 AM :Debug: Read page time: 405ms.
+12/24/19, 1:48:06 AM :Info: Checksum page 6 data read: x10 x88 x99 x57                                                       ...W
+12/24/19, 1:48:06 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+12/24/19, 1:48:06 AM :Info: CrC matched skipped controller read on page:6
+12/24/19, 1:48:06 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+12/24/19, 1:48:06 AM :Info: CrC matched skipped controller read on page:7
+12/24/19, 1:48:06 AM :Debug: CRC matches for page 9:xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:48:06 AM :Info: CrC matched skipped controller read on page:8
+12/24/19, 1:48:06 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:48:06 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:48:06 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:48:06 AM :Info: CrC matched skipped controller read on page:10
+12/24/19, 1:48:06 AM :Debug: Read All Data
+12/24/19, 1:48:06 AM :Debug: isBlank Time: 0 ms.
+12/24/19, 1:48:06 AM :Debug: DiffTime: 4 ms.
+12/24/19, 1:48:06 AM :Info: Difference Report disabling shared table Models
+12/24/19, 1:48:08 AM :Info: dr: 0:92
+12/24/19, 1:48:08 AM :Debug: Range Sort Time: 0
+12/24/19, 1:48:39 AM :Info: Time to save msq: 24.754164
+12/24/19, 1:48:39 AM :Debug: Writing to protected region
+12/24/19, 1:48:39 AM :Debug: Flush lasted: 66ms.
+12/24/19, 1:48:39 AM :Debug: Burn Page anonymous: 6
+12/24/19, 1:48:39 AM :Info: Queueing burn to page:6
+12/24/19, 1:48:39 AM :Info: Sending, 312 bytes.
+12/24/19, 1:48:39 AM :Info: Loaded Restore point /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/CurrentTune.msq
+	Sending, 312 bytes.
+12/24/19, 1:48:39 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:48:39 AM :Debug: Burn Page anonymous: -1
+12/24/19, 1:48:39 AM :Info: skip burn to page:6, lastWritePage = -2
+12/24/19, 1:48:39 AM :Info: Difference Report enabling shared table Models
+12/24/19, 1:48:39 AM :Debug: Activate Page, burn page 3 new active page=4
+12/24/19, 1:48:39 AM :Debug: Burn time:20ms.
+12/24/19, 1:48:39 AM :Debug: burned page 3
+12/24/19, 1:48:40 AM :Debug: CRC matches for page 3:xB4 x6E x49 xFF                                                       .nI.
+12/24/19, 1:48:40 AM :Debug: Queued Write instructions:4 to page(s) 4, 5, 6, 
+12/24/19, 1:48:40 AM :Debug: Activate Page, burn page 4 new active page=5
+12/24/19, 1:48:40 AM :Debug: Burn time:21ms.
+12/24/19, 1:48:40 AM :Debug: burned page 4
+12/24/19, 1:48:41 AM :Debug: Queued Write instructions:2 to page(s) 6, 
+12/24/19, 1:48:42 AM :Debug: Queued Write instructions:2 to page(s) 6, 
+12/24/19, 1:48:42 AM :Debug: CRC matches for page 4:x6B x72 x41 xB3                                                       krA.
+12/24/19, 1:48:43 AM :Debug: Queued Write instructions:2 to page(s) 6, 
+12/24/19, 1:48:44 AM :Debug: Activate Page, burn page 5 new active page=6
+12/24/19, 1:48:44 AM :Debug: Burn time:20ms.
+12/24/19, 1:48:44 AM :Debug: burned page 5
+12/24/19, 1:48:44 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:45 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:46 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:47 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:48 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:49 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:50 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:51 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:52 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:53 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:54 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:55 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:56 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:57 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:57 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:48:57 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:48:57 AM :Debug: Burn Page anonymous: -1
+12/24/19, 1:48:57 AM :Info: skip burn to page:6, lastWritePage = -2
+12/24/19, 1:48:57 AM :Debug: goOffline about to stopProcessing, Time:252
+12/24/19, 1:48:57 AM :Debug: goOffline Notified offline, Time:264
+12/24/19, 1:48:57 AM :Debug: goOffline closed port, Time:265
+12/24/19, 1:48:58 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:58 AM :Debug: goOffline comm thread stopped, Time:768
+12/24/19, 1:48:58 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:48:59 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:49:00 AM :Debug: Queued Write instructions:1 to page(s) 6, 
+12/24/19, 1:49:00 AM :Info: Going offline before all changes were permanently saved to the Controller.
+
+12/24/19, 1:49:00 AM :Debug: Purged 4 orphaned bytes:
+12/24/19, 1:49:00 AM :Debug: Time:192.294s. 0x88 0x5 0x17 0xC9 
+12/24/19, 1:49:00 AM :Debug: Time:192.294s. 
+
+12/24/19, 1:49:00 AM :Debug: Time:192.294s.   .    .    .    .  
+12/24/19, 1:49:00 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:49:00 AM :Info: Closing Port
+12/24/19, 1:49:00 AM :Info: Successfully Closed Port
+12/24/19, 1:49:00 AM :Info: GF6-EJ204-2019-11-17 ComThread stopped COMM Thread6445.423780561366
+12/24/19, 1:49:01 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:49:17 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:49:17 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:49:17 AM :Debug: goOffline about to stopProcessing, Time:0
+12/24/19, 1:49:17 AM :Debug: goOffline closed port, Time:1
+12/24/19, 1:49:17 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:49:17 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:49:17 AM :Debug: goOffline about to stopProcessing, Time:1
+12/24/19, 1:49:17 AM :Debug: goOffline closed port, Time:1
+12/24/19, 1:49:18 AM :Debug: goOffline comm thread stopped, Time:501
+12/24/19, 1:49:18 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:49:18 AM :Debug: goOffline comm thread stopped, Time:501
+12/24/19, 1:49:18 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:49:21 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:49:21 AM :Info: Comm Read Thread Change! Old Thread:COMM Thread6445.423780561366, new Thread:Thread-15
+12/24/19, 1:49:22 AM :Debug: Read from RS232: Port:/dev/ttyACM0, Baud:115200, signature:[B@3e2e79e8
+12/24/19, 1:49:22 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:49:22 AM :Info: Closing Port
+12/24/19, 1:49:22 AM :Info: Successfully Closed Port
+12/24/19, 1:49:23 AM :Info: Com Thread created: COMM Thread70926.83747484045
+12/24/19, 1:49:23 AM :Info: Comm Manager for GF6-EJ204-2019-11-17 Started, thread ID: COMM Thread70926.83747484045
+12/24/19, 1:49:23 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:49:24 AM :Info: Comm Read Thread Change! Old Thread:Thread-15, new Thread:COMM Thread70926.83747484045
+12/24/19, 1:49:25 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x32       speeduino.201912
+x2D x64 x65 x76                                                       -dev
+12/24/19, 1:49:26 AM :Info: Communicating with sig:speeduino 201912-dev, Speeduino 2019.12-dev
+12/24/19, 1:49:26 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:49:26 AM :Warning: /dev/ttyACM0 port instance already found, trying to close.
+12/24/19, 1:49:27 AM :Debug: Read from RS232: Port:/dev/ttyACM0, Baud:115200, signature:[B@49a62c7f
+12/24/19, 1:49:27 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:49:27 AM :Info: Closing Port
+12/24/19, 1:49:27 AM :Info: Successfully Closed Port
+java.lang.NullPointerException
+12/24/19, 1:49:27 AM :Error: Could not process CommInstruction. writing last 0 controller interactions to the log folowed by the stack trace
+Dec 24, 2019 1:49:27 AM l.G y
+SEVERE: null
+java.lang.NullPointerException
+
+12/24/19, 1:49:27 AM :Debug: result.FAILED: 1 tryCount
+12/24/19, 1:49:27 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:49:29 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x32       speeduino.201912
+x2D x64 x65 x76                                                       -dev
+12/24/19, 1:49:30 AM :Info: Communicating with sig:speeduino 201912-dev, Speeduino 2019.12-dev
+12/24/19, 1:49:30 AM :Debug: CRC matches for page 1:x6E xDC x73 xB5                                                       n.s.
+12/24/19, 1:49:30 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:49:30 AM :Debug: CRC matches for page 2:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:49:30 AM :Info: CrC matched skipped controller read on page:1
+12/24/19, 1:49:30 AM :Debug: CRC matches for page 3:xB4 x6E x49 xFF                                                       .nI.
+12/24/19, 1:49:30 AM :Info: CrC matched skipped controller read on page:2
+12/24/19, 1:49:30 AM :Debug: CRC matches for page 4:x6B x72 x41 xB3                                                       krA.
+12/24/19, 1:49:30 AM :Info: CrC matched skipped controller read on page:3
+12/24/19, 1:49:30 AM :Debug: CRC matches for page 5:x88 x05 x17 xC9                                                       ....
+12/24/19, 1:49:30 AM :Info: CrC matched skipped controller read on page:4
+12/24/19, 1:49:30 AM :Info: CRC Mismatch, will need to refresh page from controller 
+12/24/19, 1:49:30 AM :Info:    CRC from controller page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:49:30 AM :Info:    Local Data CRC for page 6: xB8 x15 x6B x8D                                                       ..k.
+12/24/19, 1:49:31 AM :Debug: Read page time: 213ms.
+12/24/19, 1:49:31 AM :Info: Checksum page 6 data read: x10 x88 x99 x57                                                       ...W
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:6
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:7
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 9:xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:8
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:10
+12/24/19, 1:49:31 AM :Debug: Read All Data
+12/24/19, 1:49:31 AM :Debug: isBlank Time: 1 ms.
+12/24/19, 1:49:31 AM :Debug: DiffTime: 5 ms.
+12/24/19, 1:49:31 AM :Info: Difference Report disabling shared table Models
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 1:x6E xDC x73 xB5                                                       n.s.
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 2:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:1
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 3:xB4 x6E x49 xFF                                                       .nI.
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:2
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 4:x6B x72 x41 xB3                                                       krA.
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:3
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 5:x88 x05 x17 xC9                                                       ....
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:4
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:5
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:6
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:7
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 9:xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:8
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:49:31 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:49:31 AM :Info: CrC matched skipped controller read on page:10
+12/24/19, 1:49:31 AM :Debug: Read All Data
+12/24/19, 1:49:31 AM :Debug: isBlank Time: 0 ms.
+12/24/19, 1:49:31 AM :Debug: DiffTime: 2 ms.
+12/24/19, 1:49:31 AM :Info: Difference Report enabling shared table Models
+12/24/19, 1:49:31 AM :Info: Re-establishing connection to: RS232: Port:/dev/ttyACM0, Baud:115200
+12/24/19, 1:49:31 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:49:31 AM :Info: Difference Report disabling shared table Models
+12/24/19, 1:49:31 AM :Info: Closing Port
+12/24/19, 1:49:31 AM :Info: Successfully Closed Port
+12/24/19, 1:49:31 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:49:33 AM :Info: dr: 0:83
+12/24/19, 1:49:33 AM :Debug: Range Sort Time: 1
+12/24/19, 1:49:37 AM :Info: Time to save msq: 19.301687
+12/24/19, 1:49:37 AM :Debug: Flush lasted: 14ms.
+12/24/19, 1:49:37 AM :Debug: Burn Page anonymous: 6
+12/24/19, 1:49:37 AM :Info: Queueing burn to page:6
+12/24/19, 1:49:37 AM :Info: Sending, 15 bytes.
+12/24/19, 1:49:37 AM :Info: Loaded Restore point /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/CurrentTune.msq
+	Sending, 15 bytes.
+12/24/19, 1:49:37 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:49:37 AM :Debug: Burn Page anonymous: -1
+12/24/19, 1:49:37 AM :Info: skip burn to page:6, lastWritePage = -2
+12/24/19, 1:49:37 AM :Info: Difference Report enabling shared table Models
+12/24/19, 1:49:37 AM :Debug: Burn time:21ms.
+12/24/19, 1:49:37 AM :Debug: burned page 6
+12/24/19, 1:49:37 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:49:37 AM :Info: Time to save msq: 10.019352
+12/24/19, 1:49:37 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:49:37 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:49:37 AM :Debug: CRC matches for page 6:xB8 x15 x6B x8D                                                       ..k.
+12/24/19, 1:49:37 AM :Debug: Burn time:20ms.
+12/24/19, 1:49:37 AM :Debug: burned page 6
+12/24/19, 1:49:37 AM :Debug: CRC matches for page 6:xB8 x15 x6B x8D                                                       ..k.
+12/24/19, 1:49:37 AM :Debug: CRC matches for page 1:x6E xDC x73 xB5                                                       n.s.
+12/24/19, 1:49:37 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:49:37 AM :Debug: CRC matches for page 2:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:49:37 AM :Info: CrC matched skipped controller read on page:1
+12/24/19, 1:49:37 AM :Debug: CRC matches for page 3:xB4 x6E x49 xFF                                                       .nI.
+12/24/19, 1:49:37 AM :Info: CrC matched skipped controller read on page:2
+12/24/19, 1:49:38 AM :Debug: CRC matches for page 4:x6B x72 x41 xB3                                                       krA.
+12/24/19, 1:49:38 AM :Info: CrC matched skipped controller read on page:3
+12/24/19, 1:49:38 AM :Debug: CRC matches for page 5:x88 x05 x17 xC9                                                       ....
+12/24/19, 1:49:38 AM :Info: CrC matched skipped controller read on page:4
+12/24/19, 1:49:38 AM :Debug: CRC matches for page 6:xB8 x15 x6B x8D                                                       ..k.
+12/24/19, 1:49:38 AM :Info: CrC matched skipped controller read on page:5
+12/24/19, 1:49:38 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+12/24/19, 1:49:38 AM :Info: CrC matched skipped controller read on page:6
+12/24/19, 1:49:38 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+12/24/19, 1:49:38 AM :Info: CrC matched skipped controller read on page:7
+12/24/19, 1:49:38 AM :Debug: CRC matches for page 9:xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:49:38 AM :Info: CrC matched skipped controller read on page:8
+12/24/19, 1:49:38 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:49:38 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:49:38 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:49:38 AM :Info: CrC matched skipped controller read on page:10
+12/24/19, 1:49:38 AM :Debug: Read All Data
+12/24/19, 1:49:38 AM :Debug: isBlank Time: 0 ms.
+12/24/19, 1:49:38 AM :Debug: DiffTime: 5 ms.
+12/24/19, 1:49:38 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:49:38 AM :Info: dr: 0:83
+12/24/19, 1:49:38 AM :Debug: Range Sort Time: 0
+12/24/19, 1:50:05 AM :Debug: Fill Constants: 8
+12/24/19, 1:50:05 AM :Debug: File does not exist, creating new:
+/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/restorePoints/GF6-EJ204-2019-11-17_2019-12-24_01.50.05.msq
+12/24/19, 1:50:05 AM :Info: Time to save msq: 26.572422
+12/24/19, 1:50:05 AM :Info: GF6-EJ204-2019-11-17 Restore point saved
+12/24/19, 1:50:05 AM :Info: GF6-EJ204-2019-11-17 Restore point saved to: GF6-EJ204-2019-11-17_2019-12-24_01.50.05.msq
+12/24/19, 1:50:05 AM :Info: Tune opened, 0 bytes updated. File:/home/john/Projects/speeduino/reference/Base Tunes/Speeduino base tune.msq
+12/24/19, 1:50:05 AM :Info: Tune opened, 0 bytes updated. File:/home/john/Projects/speeduino/reference/Base Tunes/Speeduino base tune.msq
+12/24/19, 1:50:05 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:50:48 AM :Debug: Fill Constants: 5
+12/24/19, 1:50:48 AM :Debug: File does not exist, creating new:
+/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/restorePoints/GF6-EJ204-2019-11-17_2019-12-24_01.50.48.msq
+12/24/19, 1:50:48 AM :Info: Time to save msq: 9.963923
+12/24/19, 1:50:48 AM :Info: GF6-EJ204-2019-11-17 Restore point saved
+12/24/19, 1:50:48 AM :Info: GF6-EJ204-2019-11-17 Restore point saved to: GF6-EJ204-2019-11-17_2019-12-24_01.50.48.msq
+12/24/19, 1:50:48 AM :Debug: Writing to protected region
+12/24/19, 1:50:48 AM :Info: Tune opened, 856 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/restorePoints/GF6-EJ204-2019-11-17_2019-12-24_01.45.06.msq
+12/24/19, 1:50:48 AM :Info: Tune opened, 856 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/restorePoints/GF6-EJ204-2019-11-17_2019-12-24_01.45.06.msq
+12/24/19, 1:50:48 AM :Debug: Flush lasted: 1ms.
+12/24/19, 1:50:48 AM :Debug: Burn Page anonymous: 6
+12/24/19, 1:50:48 AM :Info: Queueing burn to page:6
+12/24/19, 1:50:49 AM :Debug: Activate Page, burn page 1 new active page=2
+12/24/19, 1:50:49 AM :Debug: Burn time:21ms.
+12/24/19, 1:50:49 AM :Debug: burned page 1
+12/24/19, 1:50:49 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:50:49 AM :Debug: Queued Write instructions:7 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:50:50 AM :Debug: Queued Write instructions:7 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:50:50 AM :Debug: Activate Page, burn page 2 new active page=3
+12/24/19, 1:50:50 AM :Debug: Burn time:20ms.
+12/24/19, 1:50:50 AM :Debug: burned page 2
+12/24/19, 1:50:50 AM :Debug: CRC matches for page 2:xB2 x07 x92 x65                                                       ...e
+12/24/19, 1:50:51 AM :Debug: Queued Write instructions:6 to page(s) 3, 4, 5, 6, 
+12/24/19, 1:50:52 AM :Debug: Activate Page, burn page 3 new active page=4
+12/24/19, 1:50:52 AM :Debug: Burn time:20ms.
+12/24/19, 1:50:52 AM :Debug: burned page 3
+12/24/19, 1:50:52 AM :Debug: CRC matches for page 3:xC1 xF5 xFA x37                                                       ...7
+12/24/19, 1:50:52 AM :Debug: Queued Write instructions:4 to page(s) 4, 5, 6, 
+12/24/19, 1:50:52 AM :Debug: Activate Page, burn page 4 new active page=5
+12/24/19, 1:50:53 AM :Debug: Burn time:20ms.
+12/24/19, 1:50:53 AM :Debug: burned page 4
+12/24/19, 1:50:53 AM :Debug: CRC matches for page 4:x3C xCE x70 xDD                                                       <.p.
+12/24/19, 1:50:53 AM :Debug: Queued Write instructions:2 to page(s) 6, 
+12/24/19, 1:50:54 AM :Debug: Queued Write instructions:2 to page(s) 6, 
+12/24/19, 1:50:54 AM :Debug: Activate Page, burn page 5 new active page=6
+12/24/19, 1:50:54 AM :Debug: Burn time:21ms.
+12/24/19, 1:50:54 AM :Debug: burned page 5
+12/24/19, 1:50:54 AM :Debug: CRC matches for page 5:x2E xF5 xFF xC4                                                       ....
+12/24/19, 1:50:55 AM :Debug: Burn time:21ms.
+12/24/19, 1:50:55 AM :Debug: burned page 6
+12/24/19, 1:50:55 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:50:55 AM :Info: Time to save msq: 14.375123
+12/24/19, 1:50:55 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:50:55 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:50:55 AM :Debug: CRC matches for page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:50:55 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:51:00 AM :Info: Re-establishing connection to: RS232: Port:/dev/ttyACM0, Baud:115200
+12/24/19, 1:51:00 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:51:00 AM :Info: Closing Port
+12/24/19, 1:51:00 AM :Info: Successfully Closed Port
+12/24/19, 1:51:00 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:51:00 AM :Info: Error creating streams to port, closing port to cleanup.
+12/24/19, 1:51:00 AM :Info: Error closing port on cleanup. Port name - /dev/ttyACM0; Method name - closePort(); Exception type - Port not opened.
+12/24/19, 1:51:00 AM :Warning: Failed to re-establish connection to: RS232: Port:/dev/ttyACM0, Baud:115200
+12/24/19, 1:51:00 AM :Info: Connection Check failed, forcing offline.
+12/24/19, 1:51:01 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:51:01 AM :Debug: Went offline
+12/24/19, 1:51:01 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:51:01 AM :Info: Went offline 2
+12/24/19, 1:51:02 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:51:02 AM :Info: Error creating streams to port, closing port to cleanup.
+12/24/19, 1:51:02 AM :Info: Error closing port on cleanup. Port name - /dev/ttyACM0; Method name - closePort(); Exception type - Port not opened.
+12/24/19, 1:51:02 AM :Debug: Port not valid: Unable to open port: /dev/ttyACM0
+Please check your Communications Settings. 
+12/24/19, 1:51:02 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:51:02 AM :Info: Error creating streams to port, closing port to cleanup.
+12/24/19, 1:51:02 AM :Info: Error closing port on cleanup. Port name - /dev/ttyACM0; Method name - closePort(); Exception type - Port not opened.
+12/24/19, 1:51:02 AM :Debug: Port not valid: Unable to open port: /dev/ttyACM0
+Please check your Communications Settings. 
+12/24/19, 1:51:03 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:51:03 AM :Info: Error creating streams to port, closing port to cleanup.
+12/24/19, 1:51:03 AM :Info: Error closing port on cleanup. Port name - /dev/ttyACM0; Method name - closePort(); Exception type - Port not opened.
+12/24/19, 1:51:03 AM :Debug: Port not valid: Unable to open port: /dev/ttyACM0
+Please check your Communications Settings. 
+12/24/19, 1:51:03 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:51:05 AM :Debug: Error trying to go online: No bytes found on unknown read size. timeout x2: 1000
+Dec 24, 2019 1:51:05 AM h.q run
+SEVERE: z.b: No bytes found on unknown read size. timeout x2: 1000
+z.b: No bytes found on unknown read size. timeout x2: 1000
+	at h.p.a(Unknown Source)
+	at l.G.a(Unknown Source)
+	at l.G.b(Unknown Source)
+	at l.G.d(Unknown Source)
+	at h.p.a(Unknown Source)
+	at h.q.run(Unknown Source)
+
+12/24/19, 1:51:07 AM :Debug: Error trying to go online: No bytes found on unknown read size. timeout x2: 1000
+Dec 24, 2019 1:51:07 AM h.q run
+SEVERE: z.b: No bytes found on unknown read size. timeout x2: 1000
+z.b: No bytes found on unknown read size. timeout x2: 1000
+	at h.p.a(Unknown Source)
+	at l.G.a(Unknown Source)
+	at l.G.b(Unknown Source)
+	at l.G.d(Unknown Source)
+	at h.p.a(Unknown Source)
+	at h.q.run(Unknown Source)
+
+12/24/19, 1:51:09 AM :Debug: Error trying to go online: No bytes found on unknown read size. timeout x2: 1000
+Dec 24, 2019 1:51:09 AM h.q run
+SEVERE: z.b: No bytes found on unknown read size. timeout x2: 1000
+z.b: No bytes found on unknown read size. timeout x2: 1000
+	at h.p.a(Unknown Source)
+	at l.G.a(Unknown Source)
+	at l.G.b(Unknown Source)
+	at l.G.d(Unknown Source)
+	at h.p.a(Unknown Source)
+	at h.q.run(Unknown Source)
+
+12/24/19, 1:51:10 AM :Debug: Error trying to go online: No bytes found on unknown read size. timeout x2: 1000
+Dec 24, 2019 1:51:10 AM h.q run
+SEVERE: z.b: No bytes found on unknown read size. timeout x2: 1000
+z.b: No bytes found on unknown read size. timeout x2: 1000
+	at h.p.a(Unknown Source)
+	at l.G.a(Unknown Source)
+	at l.G.b(Unknown Source)
+	at l.G.d(Unknown Source)
+	at h.p.a(Unknown Source)
+	at h.q.run(Unknown Source)
+
+12/24/19, 1:51:12 AM :Debug: Error trying to go online: No bytes found on unknown read size. timeout x2: 1000
+Dec 24, 2019 1:51:12 AM h.q run
+SEVERE: z.b: No bytes found on unknown read size. timeout x2: 1000
+z.b: No bytes found on unknown read size. timeout x2: 1000
+	at h.p.a(Unknown Source)
+	at l.G.a(Unknown Source)
+	at l.G.b(Unknown Source)
+	at l.G.d(Unknown Source)
+	at h.p.a(Unknown Source)
+	at h.q.run(Unknown Source)
+
+12/24/19, 1:51:14 AM :Debug: Error trying to go online: No bytes found on unknown read size. timeout x2: 1000
+Dec 24, 2019 1:51:14 AM h.q run
+SEVERE: z.b: No bytes found on unknown read size. timeout x2: 1000
+z.b: No bytes found on unknown read size. timeout x2: 1000
+	at h.p.a(Unknown Source)
+	at l.G.a(Unknown Source)
+	at l.G.b(Unknown Source)
+	at l.G.d(Unknown Source)
+	at h.p.a(Unknown Source)
+	at h.q.run(Unknown Source)
+
+12/24/19, 1:51:15 AM :Debug: Error trying to go online: No bytes found on unknown read size. timeout x2: 1000
+Dec 24, 2019 1:51:15 AM h.q run
+SEVERE: z.b: No bytes found on unknown read size. timeout x2: 1000
+z.b: No bytes found on unknown read size. timeout x2: 1000
+	at h.p.a(Unknown Source)
+	at l.G.a(Unknown Source)
+	at l.G.b(Unknown Source)
+	at l.G.d(Unknown Source)
+	at h.p.a(Unknown Source)
+	at h.q.run(Unknown Source)
+
+12/24/19, 1:51:17 AM :Debug: Error trying to go online: No bytes found on unknown read size. timeout x2: 1000
+Dec 24, 2019 1:51:17 AM h.q run
+SEVERE: z.b: No bytes found on unknown read size. timeout x2: 1000
+z.b: No bytes found on unknown read size. timeout x2: 1000
+	at h.p.a(Unknown Source)
+	at l.G.a(Unknown Source)
+	at l.G.b(Unknown Source)
+	at l.G.d(Unknown Source)
+	at h.p.a(Unknown Source)
+	at h.q.run(Unknown Source)
+
+12/24/19, 1:51:19 AM :Debug: Error trying to go online: No bytes found on unknown read size. timeout x2: 1000
+Dec 24, 2019 1:51:19 AM h.q run
+SEVERE: z.b: No bytes found on unknown read size. timeout x2: 1000
+z.b: No bytes found on unknown read size. timeout x2: 1000
+	at h.p.a(Unknown Source)
+	at l.G.a(Unknown Source)
+	at l.G.b(Unknown Source)
+	at l.G.d(Unknown Source)
+	at h.p.a(Unknown Source)
+	at h.q.run(Unknown Source)
+
+12/24/19, 1:51:19 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:51:19 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:51:19 AM :Debug: goOffline about to stopProcessing, Time:1
+12/24/19, 1:51:19 AM :Debug: goOffline closed port, Time:1
+12/24/19, 1:51:19 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:51:19 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:51:19 AM :Debug: goOffline about to stopProcessing, Time:0
+12/24/19, 1:51:19 AM :Debug: goOffline closed port, Time:0
+12/24/19, 1:51:19 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:51:19 AM :Info: Closing Port
+12/24/19, 1:51:19 AM :Info: Successfully Closed Port
+12/24/19, 1:51:19 AM :Info: GF6-EJ204-2019-11-17 ComThread stopped COMM Thread70926.83747484045
+12/24/19, 1:51:19 AM :Debug: goOffline comm thread stopped, Time:202
+12/24/19, 1:51:19 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:51:19 AM :Debug: goOffline comm thread stopped, Time:500
+12/24/19, 1:51:19 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:51:24 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:51:24 AM :Info: Comm Read Thread Change! Old Thread:COMM Thread70926.83747484045, new Thread:Thread-33
+Dec 24, 2019 1:51:25 AM h.p a
+SEVERE: null
+z.b: No bytes found on unknown read size. timeout x2: 600
+	at h.p.a(Unknown Source)
+	at l.G.a(Unknown Source)
+	at l.G.b(Unknown Source)
+	at h.p.a(Unknown Source)
+	at l.G.q(Unknown Source)
+	at l.G.c(Unknown Source)
+	at l.G.b(Unknown Source)
+	at ag.ad.o(Unknown Source)
+	at ag.ad.b(Unknown Source)
+	at ag.ap.run(Unknown Source)
+
+12/24/19, 1:51:25 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:51:25 AM :Info: Closing Port
+12/24/19, 1:51:25 AM :Info: Successfully Closed Port
+12/24/19, 1:51:42 AM :Info: Com Thread created: COMM Thread73611.95392436955
+12/24/19, 1:51:42 AM :Info: Comm Manager for GF6-EJ204-2019-11-17 Started, thread ID: COMM Thread73611.95392436955
+12/24/19, 1:51:42 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:51:43 AM :Info: Comm Read Thread Change! Old Thread:Thread-33, new Thread:COMM Thread73611.95392436955
+12/24/19, 1:51:45 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x32       speeduino.201912
+x2D x64 x65 x76                                                       -dev
+12/24/19, 1:51:46 AM :Info: Communicating with sig:speeduino 201912-dev, Speeduino 2019.12-dev
+12/24/19, 1:51:46 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:51:46 AM :Warning: /dev/ttyACM0 port instance already found, trying to close.
+12/24/19, 1:51:46 AM :Debug: Read from RS232: Port:/dev/ttyACM0, Baud:115200, signature:[B@54f4fd74
+12/24/19, 1:51:46 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:51:46 AM :Info: Closing Port
+12/24/19, 1:51:46 AM :Info: Successfully Closed Port
+java.lang.NullPointerException
+12/24/19, 1:51:46 AM :Error: Could not process CommInstruction. writing last 0 controller interactions to the log folowed by the stack trace
+Dec 24, 2019 1:51:46 AM l.G y
+SEVERE: null
+java.lang.NullPointerException
+
+12/24/19, 1:51:46 AM :Debug: result.FAILED: 1 tryCount
+12/24/19, 1:51:46 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:51:49 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x32       speeduino.201912
+x2D x64 x65 x76                                                       -dev
+12/24/19, 1:51:50 AM :Info: Communicating with sig:speeduino 201912-dev, Speeduino 2019.12-dev
+12/24/19, 1:51:50 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:51:50 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:51:50 AM :Debug: CRC matches for page 2:xB2 x07 x92 x65                                                       ...e
+12/24/19, 1:51:50 AM :Info: CrC matched skipped controller read on page:1
+12/24/19, 1:51:50 AM :Info: CRC Mismatch, will need to refresh page from controller 
+12/24/19, 1:51:50 AM :Info:    CRC from controller page 3:x15 x06 xC8 x37                                                       ...7
+12/24/19, 1:51:50 AM :Info:    Local Data CRC for page 3: xC1 xF5 xFA x37                                                       ...7
+12/24/19, 1:51:50 AM :Debug: Read page time: 212ms.
+12/24/19, 1:51:50 AM :Info: Checksum page 3 data read: x15 x06 xC8 x37                                                       ...7
+12/24/19, 1:51:50 AM :Debug: CRC matches for page 4:x3C xCE x70 xDD                                                       <.p.
+12/24/19, 1:51:50 AM :Info: CrC matched skipped controller read on page:3
+12/24/19, 1:51:50 AM :Info: CRC Mismatch, will need to refresh page from controller 
+12/24/19, 1:51:50 AM :Info:    CRC from controller page 5:x4D x97 xAB x3F                                                       M..?
+12/24/19, 1:51:50 AM :Info:    Local Data CRC for page 5: x2E xF5 xFF xC4                                                       ....
+12/24/19, 1:51:50 AM :Debug: Read page time: 213ms.
+12/24/19, 1:51:50 AM :Info: Checksum page 5 data read: x4D x97 xAB x3F                                                       M..?
+12/24/19, 1:51:50 AM :Debug: CRC matches for page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:51:50 AM :Info: CrC matched skipped controller read on page:5
+12/24/19, 1:51:50 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+12/24/19, 1:51:50 AM :Info: CrC matched skipped controller read on page:6
+12/24/19, 1:51:50 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+12/24/19, 1:51:50 AM :Info: CrC matched skipped controller read on page:7
+12/24/19, 1:51:50 AM :Debug: CRC matches for page 9:xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:51:50 AM :Info: CrC matched skipped controller read on page:8
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:10
+12/24/19, 1:51:51 AM :Debug: Read All Data
+12/24/19, 1:51:51 AM :Debug: isBlank Time: 0 ms.
+12/24/19, 1:51:51 AM :Debug: DiffTime: 3 ms.
+12/24/19, 1:51:51 AM :Info: Difference Report disabling shared table Models
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 2:xB2 x07 x92 x65                                                       ...e
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:1
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 3:x15 x06 xC8 x37                                                       ...7
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:2
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 4:x3C xCE x70 xDD                                                       <.p.
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:3
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 5:x4D x97 xAB x3F                                                       M..?
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:4
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:5
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:6
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:7
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 9:xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:8
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:51:51 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:51:51 AM :Info: CrC matched skipped controller read on page:10
+12/24/19, 1:51:51 AM :Debug: Read All Data
+12/24/19, 1:51:51 AM :Debug: isBlank Time: 0 ms.
+12/24/19, 1:51:51 AM :Debug: DiffTime: 4 ms.
+12/24/19, 1:51:51 AM :Info: Difference Report enabling shared table Models
+12/24/19, 1:51:51 AM :Info: Difference Report disabling shared table Models
+12/24/19, 1:51:51 AM :Info: Re-establishing connection to: RS232: Port:/dev/ttyACM0, Baud:115200
+12/24/19, 1:51:51 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:51:51 AM :Info: Closing Port
+12/24/19, 1:51:51 AM :Info: Successfully Closed Port
+12/24/19, 1:51:51 AM :Info: Opening port: /dev/ttyACM0
+12/24/19, 1:51:53 AM :Info: dr: 0:88
+12/24/19, 1:51:53 AM :Debug: Range Sort Time: 0
+12/24/19, 1:52:17 AM :Info: Time to save msq: 13.694491
+12/24/19, 1:52:17 AM :Debug: Flush lasted: 13ms.
+12/24/19, 1:52:17 AM :Debug: Burn Page anonymous: 5
+12/24/19, 1:52:17 AM :Info: Queueing burn to page:5
+12/24/19, 1:52:17 AM :Info: Sending, 342 bytes.
+12/24/19, 1:52:17 AM :Info: Loaded Restore point /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/CurrentTune.msq
+	Sending, 342 bytes.
+12/24/19, 1:52:17 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:52:17 AM :Debug: Burn Page anonymous: -1
+12/24/19, 1:52:17 AM :Info: skip burn to page:5, lastWritePage = -2
+12/24/19, 1:52:17 AM :Info: Difference Report enabling shared table Models
+12/24/19, 1:52:17 AM :Debug: Activate Page, burn page 3 new active page=5
+12/24/19, 1:52:17 AM :Debug: Burn time:20ms.
+12/24/19, 1:52:17 AM :Debug: burned page 3
+12/24/19, 1:52:17 AM :Debug: CRC matches for page 3:xC1 xF5 xFA x37                                                       ...7
+12/24/19, 1:52:19 AM :Debug: Burn time:20ms.
+12/24/19, 1:52:19 AM :Debug: burned page 5
+12/24/19, 1:52:19 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:52:19 AM :Info: Time to save msq: 14.336801
+12/24/19, 1:52:19 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:52:19 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:52:19 AM :Debug: CRC matches for page 5:x2E xF5 xFF xC4                                                       ....
+12/24/19, 1:52:19 AM :Debug: Burn time:21ms.
+12/24/19, 1:52:19 AM :Debug: burned page 5
+12/24/19, 1:52:19 AM :Debug: CRC matches for page 5:x2E xF5 xFF xC4                                                       ....
+12/24/19, 1:52:19 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:52:19 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:52:19 AM :Debug: CRC matches for page 2:xB2 x07 x92 x65                                                       ...e
+12/24/19, 1:52:19 AM :Info: CrC matched skipped controller read on page:1
+12/24/19, 1:52:19 AM :Debug: CRC matches for page 3:xC1 xF5 xFA x37                                                       ...7
+12/24/19, 1:52:19 AM :Info: CrC matched skipped controller read on page:2
+12/24/19, 1:52:19 AM :Debug: CRC matches for page 4:x3C xCE x70 xDD                                                       <.p.
+12/24/19, 1:52:19 AM :Info: CrC matched skipped controller read on page:3
+12/24/19, 1:52:19 AM :Debug: CRC matches for page 5:x2E xF5 xFF xC4                                                       ....
+12/24/19, 1:52:19 AM :Info: CrC matched skipped controller read on page:4
+12/24/19, 1:52:19 AM :Debug: CRC matches for page 6:x10 x88 x99 x57                                                       ...W
+12/24/19, 1:52:19 AM :Info: CrC matched skipped controller read on page:5
+12/24/19, 1:52:20 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+12/24/19, 1:52:20 AM :Info: CrC matched skipped controller read on page:6
+12/24/19, 1:52:20 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+12/24/19, 1:52:20 AM :Info: CrC matched skipped controller read on page:7
+12/24/19, 1:52:20 AM :Debug: CRC matches for page 9:xD3 xFE x60 x6B                                                       ..`k
+12/24/19, 1:52:20 AM :Info: CrC matched skipped controller read on page:8
+12/24/19, 1:52:20 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:52:20 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:52:20 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+12/24/19, 1:52:20 AM :Info: CrC matched skipped controller read on page:10
+12/24/19, 1:52:20 AM :Debug: Read All Data
+12/24/19, 1:52:20 AM :Debug: isBlank Time: 0 ms.
+12/24/19, 1:52:20 AM :Debug: DiffTime: 3 ms.
+12/24/19, 1:52:20 AM :Info: dr: 0:83
+12/24/19, 1:52:20 AM :Debug: Range Sort Time: 0
+12/24/19, 1:52:23 AM :Info: Initiating read page 1 : 15:42
+12/24/19, 1:52:23 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:52:23 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:52:38 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:52:41 AM :Info: Initiating read page 1 : 26:1
+12/24/19, 1:52:41 AM :Info: Initiating read page 2 : 0:288
+12/24/19, 1:52:41 AM :Info: dr: 0:86
+12/24/19, 1:52:41 AM :Debug: Range Sort Time: 1
+12/24/19, 1:52:41 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:52:41 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:52:41 AM :Debug: CRC matches for page 2:xB2 x07 x92 x65                                                       ...e
+12/24/19, 1:52:41 AM :Info: CrC matched skipped controller read on page:1
+12/24/19, 1:53:08 AM :Info: dr: 0:83
+12/24/19, 1:53:08 AM :Debug: Range Sort Time: 0
+12/24/19, 1:53:08 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:53:11 AM :Info: Initiating read page 3 : 0:288
+12/24/19, 1:53:11 AM :Debug: CRC matches for page 3:xC1 xF5 xFA x37                                                       ...7
+12/24/19, 1:53:11 AM :Info: CrC matched skipped controller read on page:2
+12/24/19, 1:53:11 AM :Info: dr: 0:88
+12/24/19, 1:53:11 AM :Debug: Range Sort Time: 0
+12/24/19, 1:53:15 AM :Info: dr: 0:83
+12/24/19, 1:53:15 AM :Debug: Range Sort Time: 0
+12/24/19, 1:53:15 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:53:18 AM :Info: Initiating read page 5 : 0:288
+12/24/19, 1:53:18 AM :Info: dr: 0:86
+12/24/19, 1:53:18 AM :Debug: Range Sort Time: 0
+12/24/19, 1:53:18 AM :Debug: CRC matches for page 5:x2E xF5 xFF xC4                                                       ....
+12/24/19, 1:53:18 AM :Info: CrC matched skipped controller read on page:4
+12/24/19, 1:53:22 AM :Info: dr: 0:83
+12/24/19, 1:53:22 AM :Debug: Range Sort Time: 0
+12/24/19, 1:53:22 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:53:26 AM :Info: Initiating read page 1 : 49:1
+12/24/19, 1:53:26 AM :Info: Initiating read page 4 : 3:61
+12/24/19, 1:53:26 AM :Info: Initiating read page 10 : 0:8
+12/24/19, 1:53:26 AM :Info: dr: 0:83
+12/24/19, 1:53:26 AM :Debug: Range Sort Time: 0
+12/24/19, 1:53:26 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/24/19, 1:53:26 AM :Info: CrC matched skipped controller read on page:0
+12/24/19, 1:53:26 AM :Debug: CRC matches for page 4:x3C xCE x70 xDD                                                       <.p.
+12/24/19, 1:53:26 AM :Info: CrC matched skipped controller read on page:3
+12/24/19, 1:53:26 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/24/19, 1:53:26 AM :Info: CrC matched skipped controller read on page:9
+12/24/19, 1:53:31 AM :Info: dr: 0:83
+12/24/19, 1:53:31 AM :Debug: Range Sort Time: 0
+12/24/19, 1:53:31 AM :Debug: Flush lasted: 0ms.
+12/24/19, 1:53:40 AM :Info: dr: 0:83
+12/24/19, 1:53:40 AM :Debug: Range Sort Time: 0
+12/24/19, 1:57:53 AM :Info: Time to save msq: 5.378284
+12/24/19, 1:57:53 AM :Info: closeApp Called
+12/24/19, 1:57:53 AM :Debug: TuneLog Editor set text
+12/24/19, 1:57:53 AM :Debug: Fill Constants: 5
+12/24/19, 1:57:53 AM :Debug: File does not exist, creating new:
+/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/restorePoints/GF6-EJ204-2019-11-17_2019-12-24_01.57.53.msq
+12/24/19, 1:57:53 AM :Info: Time to save msq: 8.426547
+12/24/19, 1:57:53 AM :Info: GF6-EJ204-2019-11-17 Restore point saved
+12/24/19, 1:57:53 AM :Info: GF6-EJ204-2019-11-17 Restore point saved to: GF6-EJ204-2019-11-17_2019-12-24_01.57.53.msq
+12/24/19, 1:57:53 AM :Info: Time to save msq: 6.343017
+12/24/19, 1:57:54 AM :Debug: goOffline Starting, Time:0
+12/24/19, 1:57:54 AM :Info: Deactivated Turbo Baud, goOffline
+12/24/19, 1:57:54 AM :Debug: goOffline about to stopProcessing, Time:251
+12/24/19, 1:57:54 AM :Debug: goOffline Notified offline, Time:257
+12/24/19, 1:57:54 AM :Debug: goOffline closed port, Time:257
+12/24/19, 1:57:54 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/24/19, 1:57:54 AM :Info: Closing Port
+12/24/19, 1:57:54 AM :Info: Successfully Closed Port
+12/24/19, 1:57:54 AM :Info: GF6-EJ204-2019-11-17 ComThread stopped COMM Thread73611.95392436955
+12/24/19, 1:57:54 AM :Debug: goOffline comm thread stopped, Time:407
+12/24/19, 1:57:54 AM :Debug: No Remaining Queue Write instructions
+12/24/19, 1:57:56 AM :Info: Time to load non-cached dashboard: 53.924606 ms. file:dashboard.dash
+12/24/19, 1:57:56 AM :Debug: Time to save dashboard: 54.992844ms. file: /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/dashboard/dashboard.dash
+12/24/19, 1:57:56 AM :Debug: removing Configuration: GF6-EJ204-2019-11-17
+12/24/19, 1:57:56 AM :Debug: ############################################# Save Project ##########################################
+12/24/19, 1:57:56 AM :Info: Finalizing Sensors
+Saved user properties successfully
+Starting on Kino
+TunerStudio 3.0.28 started on Sun Dec 29 06:28:01 PST 2019
+JRE 11.0.5, Linux 5.3.0-24-generic, amd64
+java.library.path=lib/alternateLinuxDrivers/x86_64-linux:lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:GTK+, ClassName:'com.sun.java.swing.plaf.gtk.GTKLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+12/29/19, 6:28:03 AM :Debug: no update:defaultFont
+12/29/19, 6:28:05 AM :Info: Loading Language Content.
+12/29/19, 6:28:05 AM :Info: Initializing File Dialogs.
+12/29/19, 6:28:05 AM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+12/29/19, 6:28:05 AM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+12/29/19, 6:28:05 AM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+12/29/19, 6:28:05 AM :Info: Initializing Plugin Services.
+12/29/19, 6:28:05 AM :Info: Loading Plugins.
+12/29/19, 6:28:05 AM :Info: Initializing Help.
+12/29/19, 6:28:05 AM :Info: Initializing Edition Features.
+12/29/19, 6:28:05 AM :Info: Initializing App Events.
+12/29/19, 6:28:05 AM :Debug: App Name:TunerStudio, appEdition:MS
+12/29/19, 6:28:05 AM :Info: Initializing User Interface
+12/29/19, 6:28:05 AM :Warning: Unable to set Main cluster for title:
+12/29/19, 6:28:06 AM :Info: Error Sorting Dialog: column beyond range of TableModel
+12/29/19, 6:28:07 AM :Info: Loading Font list.
+12/29/19, 6:28:07 AM :Debug: Time to retreive font name list: 28 ms.
+12/29/19, 6:28:07 AM :Info: 
+12/29/19, 6:28:07 AM :Info: Initializing UI Components.
+12/29/19, 6:28:07 AM :Info: Ready
+MSmain: No check, last update check=Mon Dec 23 19:57:01 PST 2019
+12/29/19, 6:28:10 AM :Info: Opening Project ...
+12/29/19, 6:28:10 AM :Debug: Opening project: /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17
+12/29/19, 6:28:10 AM :Debug: Reading translation file as plain text
+12/29/19, 6:28:10 AM :Debug: EventTrigger Data log Reset. expression: 
+12/29/19, 6:28:10 AM :Debug: EventTrigger Stop Data log Reset. expression: 
+12/29/19, 6:28:10 AM :Info: Supported iniSpecVersion=3.51
+12/29/19, 6:28:10 AM :Debug: Filtered ConfigurationOptionGroup in 34ms.
+12/29/19, 6:28:10 AM :Info: Supported iniSpecVersion=3.51
+12/29/19, 6:28:10 AM :Info: Read file canPcVariables.ini: 0.609527ms
+12/29/19, 6:28:10 AM :Info: Filtered ini: 0.087482ms
+12/29/19, 6:28:10 AM :Info: No iniVersion defined
+12/29/19, 6:28:10 AM :Info: Loading Trigger Wheels
+12/29/19, 6:28:10 AM :Info: Loaded All known ini sections
+12/29/19, 6:28:10 AM :Info: Parsed and validated ini "canPcVariables.ini" in : 25ms.
+12/29/19, 6:28:10 AM :Info: Read file mainController.ini: 12.989668ms
+12/29/19, 6:28:10 AM :Info: Filtered ini: 2.862138ms
+12/29/19, 6:28:10 AM :Info: No iniVersion defined
+12/29/19, 6:28:10 AM :Debug: ini signature: speeduino 201912-dev
+12/29/19, 6:28:10 AM :Info: Loading Trigger Wheels
+12/29/19, 6:28:10 AM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+12/29/19, 6:28:10 AM :Info: Loaded All known ini sections
+12/29/19, 6:28:10 AM :Info: Parsed and validated ini "mainController.ini" in : 182ms.
+12/29/19, 6:28:10 AM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+12/29/19, 6:28:10 AM :Info: Time to load primary config: 331.95627ms. used cached config: false
+12/29/19, 6:28:10 AM :Info: Supported iniSpecVersion=3.51
+12/29/19, 6:28:10 AM :Debug: Adding Configuration: GF6-EJ204-2019-11-17
+12/29/19, 6:28:10 AM :Debug: Fill Constants: 17
+12/29/19, 6:28:10 AM :Info: Tune opened, 2306 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/CurrentTune.msq
+12/29/19, 6:28:10 AM :Info: Tune opened, 2306 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/CurrentTune.msq
+12/29/19, 6:28:10 AM :Debug: Flush lasted: 0ms.
+12/29/19, 6:28:10 AM :Info: !!! Loaded config in 586
+12/29/19, 6:28:11 AM :Info: Com Thread created: COMM Thread30655.61207500418
+12/29/19, 6:28:11 AM :Info: Comm Manager for GF6-EJ204-2019-11-17 Started, thread ID: COMM Thread30655.61207500418
+12/29/19, 6:28:11 AM :Info: !!! Activated Project 1164
+12/29/19, 6:28:11 AM :Info: Opening port: /dev/ttyACM0
+12/29/19, 6:28:11 AM :Info: Opening Gauge Cluster..
+12/29/19, 6:28:11 AM :Info: Time to load uncached dash: 151.38081ms, file: dashboard.dash
+12/29/19, 6:28:11 AM :Debug: High Speed Paint: true
+12/29/19, 6:28:12 AM :Info: 
+12/29/19, 6:28:12 AM :Debug: !!! Opened Dash 1935
+12/29/19, 6:28:12 AM :Info: GF6-EJ204-2019-11-17 Ready
+12/29/19, 6:28:12 AM :Debug: Tuning View Files loaded in 126.33629ms.
+12/29/19, 6:28:12 AM :Info: Comm Read Thread Change! Old Thread:null, new Thread:COMM Thread30655.61207500418
+MSad: No check, last update check=Mon Dec 23 19:57:04 PST 2019
+12/29/19, 6:28:13 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x32       speeduino.201912
+x2D x64 x65 x76                                                       -dev
+12/29/19, 6:28:14 AM :Info: Communicating with sig:speeduino 201912-dev, Speeduino 2019.12-dev
+12/29/19, 6:28:14 AM :Debug: CRC matches for page 1:x4F x38 x20 xCE                                                       O8..
+12/29/19, 6:28:14 AM :Info: CrC matched skipped controller read on page:0
+12/29/19, 6:28:14 AM :Debug: CRC matches for page 2:xB2 x07 x92 x65                                                       ...e
+12/29/19, 6:28:14 AM :Info: CrC matched skipped controller read on page:1
+12/29/19, 6:28:14 AM :Debug: CRC matches for page 3:xC1 xF5 xFA x37                                                       ...7
+12/29/19, 6:28:14 AM :Info: CrC matched skipped controller read on page:2
+12/29/19, 6:28:14 AM :Debug: CRC matches for page 4:x3C xCE x70 xDD                                                       <.p.
+12/29/19, 6:28:14 AM :Info: CrC matched skipped controller read on page:3
+12/29/19, 6:28:14 AM :Debug: CRC matches for page 5:x2E xF5 xFF xC4                                                       ....
+12/29/19, 6:28:14 AM :Info: CrC matched skipped controller read on page:4
+12/29/19, 6:28:14 AM :Debug: CRC matches for page 6:x10 x88 x99 x57                                                       ...W
+12/29/19, 6:28:14 AM :Info: CrC matched skipped controller read on page:5
+12/29/19, 6:28:15 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+12/29/19, 6:28:15 AM :Info: CrC matched skipped controller read on page:6
+12/29/19, 6:28:15 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+12/29/19, 6:28:15 AM :Info: CrC matched skipped controller read on page:7
+12/29/19, 6:28:15 AM :Info: CRC Mismatch, will need to refresh page from controller 
+12/29/19, 6:28:15 AM :Info:    CRC from controller page 9:xD3 xFE x60 x6B                                                       ..`k
+12/29/19, 6:28:15 AM :Info:    Local Data CRC for page 9: x8C xF8 x34 xB4                                                       ..4.
+12/29/19, 6:28:15 AM :Debug: Read page time: 214ms.
+12/29/19, 6:28:15 AM :Info: Checksum page 9 data read: xD3 xFE x60 x6B                                                       ..`k
+12/29/19, 6:28:15 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+12/29/19, 6:28:15 AM :Info: CrC matched skipped controller read on page:9
+12/29/19, 6:28:15 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+12/29/19, 6:28:15 AM :Info: CrC matched skipped controller read on page:10
+12/29/19, 6:28:15 AM :Debug: Read All Data
+12/29/19, 6:28:15 AM :Debug: isBlank Time: 0 ms.
+12/29/19, 6:28:15 AM :Debug: DiffTime: 14 ms.
+12/29/19, 6:28:15 AM :Info: Re-establishing connection to: RS232: Port:/dev/ttyACM0, Baud:115200
+12/29/19, 6:28:15 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/29/19, 6:28:15 AM :Info: Closing Port
+12/29/19, 6:28:15 AM :Info: Successfully Closed Port
+12/29/19, 6:28:15 AM :Info: Opening port: /dev/ttyACM0
+12/29/19, 6:28:17 AM :Info: dr: 0:83
+12/29/19, 6:28:17 AM :Debug: Range Sort Time: 1
+12/29/19, 6:28:17 AM :Info: Re-establishing connection to: RS232: Port:/dev/ttyACM0, Baud:115200
+12/29/19, 6:28:17 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/29/19, 6:28:17 AM :Info: Closing Port
+12/29/19, 6:28:17 AM :Info: Successfully Closed Port
+12/29/19, 6:28:17 AM :Info: Opening port: /dev/ttyACM0
+12/29/19, 6:28:18 AM :Info: Re-establishing connection to: RS232: Port:/dev/ttyACM0, Baud:115200
+12/29/19, 6:28:18 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/29/19, 6:28:18 AM :Info: Closing Port
+12/29/19, 6:28:18 AM :Info: Successfully Closed Port
+12/29/19, 6:28:18 AM :Info: Opening port: /dev/ttyACM0
+12/29/19, 6:28:20 AM :Debug: No Remaining Queue Write instructions
+12/29/19, 6:28:20 AM :Debug: Went offline
+12/29/19, 6:28:20 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/29/19, 6:28:20 AM :Info: Closing Port
+12/29/19, 6:28:20 AM :Info: Successfully Closed Port
+12/29/19, 6:28:20 AM :Debug: No Remaining Queue Write instructions
+12/29/19, 6:28:20 AM :Info: Went offline 2
+12/29/19, 6:28:21 AM :Info: Opening port: /dev/ttyACM0
+12/29/19, 6:28:23 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x32       speeduino.201912
+x2D x64 x65 x76                                                       -dev
+12/29/19, 6:28:24 AM :Info: Communicating with sig:speeduino 201912-dev, Speeduino 2019.12-dev
+12/29/19, 6:28:24 AM :Info: Re-establishing connection to: RS232: Port:/dev/ttyACM0, Baud:115200
+12/29/19, 6:28:24 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/29/19, 6:28:24 AM :Info: Closing Port
+12/29/19, 6:28:24 AM :Info: Successfully Closed Port
+12/29/19, 6:28:24 AM :Info: Opening port: /dev/ttyACM0
+12/29/19, 6:28:36 AM :Debug: Deactivated fast paint Main Dashboard
+12/29/19, 6:28:36 AM :Info: dr: 0:83
+12/29/19, 6:28:36 AM :Debug: Range Sort Time: 0
+12/29/19, 6:28:53 AM :Info: Time to save msq: 120.50312
+12/29/19, 6:28:53 AM :Info: closeApp Called
+12/29/19, 6:28:53 AM :Debug: TuneLog Editor set text
+12/29/19, 6:28:53 AM :Debug: Fill Constants: 15
+12/29/19, 6:28:53 AM :Debug: File does not exist, creating new:
+/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/restorePoints/GF6-EJ204-2019-11-17_2019-12-29_06.28.53.msq
+12/29/19, 6:28:53 AM :Info: Time to save msq: 19.832249
+12/29/19, 6:28:53 AM :Info: GF6-EJ204-2019-11-17 Restore point saved
+12/29/19, 6:28:53 AM :Info: GF6-EJ204-2019-11-17 Restore point saved to: GF6-EJ204-2019-11-17_2019-12-29_06.28.53.msq
+12/29/19, 6:28:53 AM :Info: Time to save msq: 17.000626
+12/29/19, 6:28:54 AM :Debug: goOffline Starting, Time:0
+12/29/19, 6:28:54 AM :Info: Deactivated Turbo Baud, goOffline
+12/29/19, 6:28:54 AM :Debug: goOffline about to stopProcessing, Time:251
+12/29/19, 6:28:54 AM :Debug: goOffline Notified offline, Time:259
+12/29/19, 6:28:54 AM :Debug: goOffline closed port, Time:259
+12/29/19, 6:28:54 AM :Debug: JSSC ControllerInterface Close Connection currentPort == null:false
+12/29/19, 6:28:54 AM :Info: Closing Port
+12/29/19, 6:28:54 AM :Info: Successfully Closed Port
+12/29/19, 6:28:54 AM :Info: GF6-EJ204-2019-11-17 ComThread stopped COMM Thread30655.61207500418
+12/29/19, 6:28:54 AM :Debug: goOffline comm thread stopped, Time:460
+12/29/19, 6:28:54 AM :Debug: No Remaining Queue Write instructions
+12/29/19, 6:28:58 AM :Info: Time to load non-cached dashboard: 51.583668 ms. file:dashboard.dash
+12/29/19, 6:28:58 AM :Debug: Time to save dashboard: 56.623238ms. file: /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-11-17/dashboard/dashboard.dash
+12/29/19, 6:28:58 AM :Debug: removing Configuration: GF6-EJ204-2019-11-17
+12/29/19, 6:28:58 AM :Debug: ############################################# Save Project ##########################################
+12/29/19, 6:28:58 AM :Info: Finalizing Sensors
+Saved user properties successfully
+Starting on Kino
+TunerStudio 3.0.28 started on Sun Dec 29 06:40:32 PST 2019
+JRE 11.0.5, Linux 5.3.0-24-generic, amd64
+java.library.path=lib/alternateLinuxDrivers/x86_64-linux:lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:GTK+, ClassName:'com.sun.java.swing.plaf.gtk.GTKLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+12/29/19, 6:40:34 AM :Debug: no update:defaultFont
+12/29/19, 6:40:36 AM :Info: Loading Language Content.
+12/29/19, 6:40:36 AM :Info: Initializing File Dialogs.
+12/29/19, 6:40:36 AM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+12/29/19, 6:40:36 AM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+12/29/19, 6:40:36 AM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+12/29/19, 6:40:36 AM :Info: Initializing Plugin Services.
+12/29/19, 6:40:36 AM :Info: Loading Plugins.
+12/29/19, 6:40:36 AM :Info: Initializing Help.
+12/29/19, 6:40:36 AM :Info: Initializing Edition Features.
+12/29/19, 6:40:36 AM :Info: Initializing App Events.
+12/29/19, 6:40:36 AM :Debug: App Name:TunerStudio, appEdition:MS
+12/29/19, 6:40:36 AM :Info: Initializing User Interface
+12/29/19, 6:40:36 AM :Warning: Unable to set Main cluster for title:
+12/29/19, 6:40:37 AM :Info: Error Sorting Dialog: column beyond range of TableModel
+12/29/19, 6:40:38 AM :Info: Loading Font list.
+12/29/19, 6:40:38 AM :Debug: Time to retreive font name list: 18 ms.
+12/29/19, 6:40:38 AM :Info: 
+12/29/19, 6:40:38 AM :Info: Initializing UI Components.
+12/29/19, 6:40:38 AM :Info: Ready
+MSmain: No check, last update check=Mon Dec 23 19:57:01 PST 2019
+12/29/19, 6:40:40 AM :Debug: Running speed test
+12/29/19, 6:40:41 AM :Debug: Processor Score:1336608
+MSad: No check, last update check=Mon Dec 23 19:57:04 PST 2019
+12/29/19, 6:40:53 AM :Debug: Directory Changed:
+	Old:/home/john
+	New:/home/john/Projects/GF6-EJ204/TunerStudio
