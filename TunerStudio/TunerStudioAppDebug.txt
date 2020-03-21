@@ -26190,3 +26190,477 @@ Ukh: No Internet?
 2/1/20 3:38:39 PM :Debug: ############################################# Save Project ##########################################
 2/1/20 3:38:39 PM :Info: Finalizing Sensors
 Saved user properties successfully
+Starting on Papika
+TunerStudio 3.1.00.00 started on Tue Feb 25 23:27:54 PST 2020
+JRE 1.8.0_242, Linux 4.15.0-74-generic, amd64
+java.library.path=lib/alternateLinuxDrivers/x86_64-linux:lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:GTK+, ClassName:'com.sun.java.swing.plaf.gtk.GTKLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+2/25/20 11:27:54 PM :Debug: no update:defaultFont
+2/25/20 11:28:03 PM :Info: Loading Language Content.
+2/25/20 11:28:05 PM :Info: Initializing File Dialogs.
+2/25/20 11:28:05 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+2/25/20 11:28:05 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+2/25/20 11:28:05 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+2/25/20 11:28:05 PM :Info: Initializing Help.
+2/25/20 11:28:05 PM :Info: Initializing Edition Features.
+2/25/20 11:28:05 PM :Info: Initializing App Events.
+2/25/20 11:28:05 PM :Debug: App Name:TunerStudio, appEdition:MS Lite!
+2/25/20 11:28:05 PM :Debug: Dummy Function Factory Created.
+2/25/20 11:28:05 PM :Info: Initializing User Interface
+2/25/20 11:28:07 PM :Info: Opening Last Project....
+2/25/20 11:28:07 PM :Info: Checking for updates
+2/25/20 11:28:07 PM :Info: Opening Project ...
+2/25/20 11:28:07 PM :Debug: Opening project: /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-12-29/
+2/25/20 11:28:07 PM :Debug: Reading translation file as plain text
+2/25/20 11:28:07 PM :Info: Supported iniSpecVersion=3.67
+2/25/20 11:28:07 PM :Debug: Filtered ConfigurationOptionGroup in 110ms.
+2/25/20 11:28:07 PM :Info: Supported iniSpecVersion=3.67
+2/25/20 11:28:07 PM :Info: Read file canPcVariables.ini: 5.037375ms
+2/25/20 11:28:07 PM :Info: Filtered ini: 0.103089ms
+2/25/20 11:28:07 PM :Info: No iniVersion defined
+2/25/20 11:28:07 PM :Info: Loading Trigger Wheels
+2/25/20 11:28:07 PM :Info: Loaded All known ini sections
+2/25/20 11:28:07 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 54ms.
+2/25/20 11:28:07 PM :Info: Read file mainController.ini: 27.259544ms
+2/25/20 11:28:07 PM :Info: Filtered ini: 6.590689ms
+2/25/20 11:28:07 PM :Info: No iniVersion defined
+2/25/20 11:28:07 PM :Debug: ini signature: speeduino 201911
+2/25/20 11:28:07 PM :Info: Loading Font list.
+2/25/20 11:28:07 PM :Debug: Time to retreive font name list: 3 ms.
+2/25/20 11:28:07 PM :Info: 
+2/25/20 11:28:07 PM :Info: Initializing UI Components.
+2/25/20 11:28:07 PM :Info: Starting Internet Monitor
+2/25/20 11:28:07 PM :Info: Ready
+2/25/20 11:28:08 PM :Info: Loading Trigger Wheels
+2/25/20 11:28:08 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+2/25/20 11:28:08 PM :Info: Loaded All known ini sections
+2/25/20 11:28:08 PM :Info: Parsed and validated ini "mainController.ini" in : 435ms.
+2/25/20 11:28:08 PM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+2/25/20 11:28:08 PM :Info: Time to load primary config: 852.4245ms. used cached config: false
+2/25/20 11:28:08 PM :Info: Supported iniSpecVersion=3.67
+2/25/20 11:28:08 PM :Debug: Adding Configuration: GF6-EJ204-2019-12-29
+2/25/20 11:28:08 PM :Debug: controllerOnline = 0.0
+2/25/20 11:28:08 PM :Debug: Fill Constants: 24
+2/25/20 11:28:08 PM :Info: Tune opened, 2307 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-12-29/CurrentTune.msq
+2/25/20 11:28:08 PM :Info: Tune opened, 2307 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-12-29/CurrentTune.msq
+2/25/20 11:28:08 PM :Info: dirtyData.size(): 0
+2/25/20 11:28:08 PM :Info: dirtyData.size(): 0
+2/25/20 11:28:08 PM :Debug: Flush lasted: 0ms.
+2/25/20 11:28:08 PM :Info: dirtyData.size(): 0
+2/25/20 11:28:08 PM :Info: dirtyData.size(): 0
+2/25/20 11:28:08 PM :Debug: Flush lasted: 1ms.
+2/25/20 11:28:08 PM :Debug: Skip Burn, last write page: -2
+2/25/20 11:28:08 PM :Info: !!! Loaded config in 1507
+2/25/20 11:28:09 PM :Info: !!! Activated Project 1843
+2/25/20 11:28:09 PM :Info: Opening Gauge Cluster..
+2/25/20 11:28:09 PM :Debug: Deactivated fast paint Main Dashboard
+2/25/20 11:28:09 PM :Debug: High Speed Paint: true
+2/25/20 11:28:09 PM :Info: 
+2/25/20 11:28:09 PM :Info: Com Thread created: COMM Thread40326.53659381782
+2/25/20 11:28:09 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+2/25/20 11:28:09 PM :Info: Comm Manager for GF6-EJ204-2019-12-29 Started, thread ID: COMM Thread40326.53659381782
+2/25/20 11:28:09 PM :Debug: !!! Opened Dash 2068
+2/25/20 11:28:09 PM :Info: GF6-EJ204-2019-12-29 Ready
+2/25/20 11:28:09 PM :Debug: Tuning View Files loaded in 0.147928ms.
+2/25/20 11:28:09 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+2/25/20 11:28:09 PM :Info: No Persistor set, not activating persisted triggers.
+2/25/20 11:28:13 PM :Info: Update Check Completed
+Saved user properties successfully
+2/25/20 11:28:19 PM :Info: Checking for updates
+2/25/20 11:28:24 PM :Warning: Download of: help.zip, succeeded! File size: 4919300 bytes
+2/25/20 11:28:26 PM :Warning: Download of: TunerStudioMS.jar, succeeded! File size: 5514328 bytes
+Saved user properties successfully
+Saved user properties successfully
+Jar Name:TunerStudioMS.jar
+Saved user properties successfully
+2/25/20 11:28:27 PM :Debug: TuneLog Editor set text
+2/25/20 11:28:27 PM :Info: file:CurrentTune.msq is not Monitored, cannot pause Monitoring of it.
+2/25/20 11:28:27 PM :Info: Time to save msq: 212.69093
+2/25/20 11:28:27 PM :Info: file:CurrentTune.msq is not Monitored, cannot unpause Monitoring of it.
+2/25/20 11:28:27 PM :Debug: goOffline Starting, Time:0
+2/25/20 11:28:27 PM :Info: Deactivated Turbo Baud, goOffline
+2/25/20 11:28:27 PM :Debug: goOffline about to stopProcessing, Time:1
+2/25/20 11:28:27 PM :Debug: goOffline closed port, Time:1
+2/25/20 11:28:27 PM :Info: GF6-EJ204-2019-12-29 ComThread stopped COMM Thread40326.53659381782
+2/25/20 11:28:27 PM :Debug: goOffline comm thread stopped, Time:103
+2/25/20 11:28:27 PM :Debug: No Remaining Queue Write instructions
+2/25/20 11:28:27 PM :Debug: removing Configuration: GF6-EJ204-2019-12-29
+2/25/20 11:28:27 PM :Info: No Persistor set, not saving active triggers.
+2/25/20 11:28:27 PM :Debug: ############################################# Save Project ##########################################
+2/25/20 11:28:27 PM :Info: closeApp Called
+2/25/20 11:28:27 PM :Info: Finalizing Sensors
+Saved user properties successfully
+Starting on Papika
+TunerStudio 3.1.02 started on Tue Feb 25 23:28:33 PST 2020
+JRE 1.8.0_242, Linux 4.15.0-74-generic, amd64
+java.library.path=lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:GTK+, ClassName:'com.sun.java.swing.plaf.gtk.GTKLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+2/25/20 11:28:33 PM :Debug: no update:defaultFont
+2/25/20 11:28:34 PM :Info: Loading Language Content.
+2/25/20 11:28:35 PM :Debug: Delete Results speeduino201810.ini true
+2/25/20 11:28:35 PM :Debug: Delete Results speeduino201805.ini true
+2/25/20 11:28:35 PM :Debug: Delete Results speeduino201809_dev.ini true
+2/25/20 11:28:35 PM :Debug: Delete Results speeduino201807_dev.ini true
+2/25/20 11:28:35 PM :Debug: Delete Results speeduino201904_dev.ini true
+2/25/20 11:28:35 PM :Debug: Delete Results MS3Format0435.16P.ini true
+2/25/20 11:28:35 PM :Debug: Delete Results speeduino201808.ini true
+2/25/20 11:28:35 PM :Debug: Delete Results ecuDef true
+2/25/20 11:28:35 PM :Debug: Delete Results config true
+2/25/20 11:28:35 PM :Debug: Delete Results firmwareLoadCompleteNoProject.html true
+2/25/20 11:28:35 PM :Debug: Delete Results database-upload.png true
+2/25/20 11:28:35 PM :Debug: Delete Results ms3.jpg true
+2/25/20 11:28:35 PM :Debug: Delete Results backup-drive.png true
+2/25/20 11:28:35 PM :Debug: Delete Results Thumbs.db true
+2/25/20 11:28:35 PM :Debug: Delete Results ms3-pro.jpg true
+2/25/20 11:28:35 PM :Debug: Delete Results firmware-update.png true
+2/25/20 11:28:35 PM :Debug: Delete Results images true
+2/25/20 11:28:35 PM :Debug: Delete Results tuneRestoring.html true
+2/25/20 11:28:35 PM :Debug: Delete Results tuneRestoredNoPC.html true
+2/25/20 11:28:35 PM :Debug: Delete Results archiveProjectInfo.html true
+2/25/20 11:28:35 PM :Debug: Delete Results tuneRestore.html true
+2/25/20 11:28:35 PM :Debug: Delete Results tuneRestored.html true
+2/25/20 11:28:35 PM :Debug: Delete Results firmwareLoaderIntro.html true
+2/25/20 11:28:35 PM :Debug: Delete Results firmwareLoadCompleteProject.html true
+2/25/20 11:28:35 PM :Debug: Delete Results firmwareLoader true
+2/25/20 11:28:35 PM :Debug: Delete Results help true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (MS3Pro WRX).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (EJ22E-2019-03-10).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (GF6-EJ22E).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (GF6-EJ204-2019-03-18).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (GF6-EJ204-2019-12-29).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (GF6-EJ22E-2018-11-12).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (GF6-EJ204-2019-04-09).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (GF6-EJ22E-Aug).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (test2).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (GF6-EJ204-2019-04-13).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (test).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (GF6-EJ204-2019-11-17).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (GF6-EJ22E-May).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results Default (GF6-EJ204-2019-04-12).dash true
+2/25/20 11:28:35 PM :Debug: Delete Results dashCache true
+2/25/20 11:28:35 PM :Debug: Delete Results GreyCenterNeedle.png true
+2/25/20 11:28:35 PM :Debug: Delete Results fatNeedleRedShadowed.png true
+2/25/20 11:28:35 PM :Debug: Delete Results logging78.png true
+2/25/20 11:28:35 PM :Debug: Delete Results satalite78_greyed.png true
+2/25/20 11:28:35 PM :Debug: Delete Results BezelgreyNarrow.png true
+2/25/20 11:28:35 PM :Debug: Delete Results ariblk.ttf true
+2/25/20 11:28:35 PM :Debug: Delete Results LCD-BOLD.TTF true
+2/25/20 11:28:35 PM :Debug: Delete Results ARLRDBD.TTF true
+2/25/20 11:28:35 PM :Debug: Delete Results FRADM.TTF true
+2/25/20 11:28:35 PM :Debug: Delete Results LCD2N__.TTF true
+2/25/20 11:28:35 PM :Debug: Delete Results comic.ttf true
+2/25/20 11:28:35 PM :Debug: Delete Results BOD_BLAI.TTF true
+2/25/20 11:28:35 PM :Debug: Delete Results fonts true
+2/25/20 11:28:35 PM :Debug: Delete Results orangeBezel.png true
+2/25/20 11:28:35 PM :Debug: Delete Results ditheredAmberRim.png true
+2/25/20 11:28:35 PM :Debug: Delete Results chromeCenterNeedle.png true
+2/25/20 11:28:35 PM :Debug: Delete Results logging78_greyed.png true
+2/25/20 11:28:35 PM :Debug: Delete Results cyanNeonRing.png true
+2/25/20 11:28:35 PM :Debug: Delete Results fatNeedleRedShadowed2.png true
+2/25/20 11:28:35 PM :Debug: Delete Results BezelBlack.png true
+2/25/20 11:28:35 PM :Debug: Delete Results satalite78.png true
+2/25/20 11:28:35 PM :Debug: Delete Results Bezelgrey.png true
+2/25/20 11:28:35 PM :Debug: Delete Results dashImages true
+2/25/20 11:28:35 PM :Debug: Delete Results TunerStudio.pipe true
+2/25/20 11:28:35 PM :Debug: Delete Results plugins true
+2/25/20 11:28:35 PM :Debug: Delete Results cache true
+2/25/20 11:28:35 PM :Debug: Delete Results TunerStudio true
+2/25/20 11:28:38 PM :Debug: user Properties file not found. /home/john/.efianalytics/mlvEm.properties.bak (No such file or directory)
+2/25/20 11:28:38 PM :Info: Finishing Upgrade....
+2/25/20 11:28:38 PM :Debug: Delete Results startScreenRoot true
+2/25/20 11:28:38 PM :Debug: Delete Results firmwareLoadCompleteNoProject.html true
+2/25/20 11:28:38 PM :Debug: Delete Results database-upload.png true
+2/25/20 11:28:38 PM :Debug: Delete Results ms3.jpg true
+2/25/20 11:28:38 PM :Debug: Delete Results backup-drive.png true
+2/25/20 11:28:38 PM :Debug: Delete Results Thumbs.db true
+2/25/20 11:28:38 PM :Debug: Delete Results ms3-pro.jpg true
+2/25/20 11:28:38 PM :Debug: Delete Results firmware-update.png true
+2/25/20 11:28:38 PM :Debug: Delete Results images true
+2/25/20 11:28:38 PM :Debug: Delete Results tuneRestoring.html true
+2/25/20 11:28:38 PM :Debug: Delete Results tuneRestoredNoPC.html true
+2/25/20 11:28:38 PM :Debug: Delete Results archiveProjectInfo.html true
+2/25/20 11:28:38 PM :Debug: Delete Results tuneRestore.html true
+2/25/20 11:28:38 PM :Debug: Delete Results tuneRestored.html true
+2/25/20 11:28:38 PM :Debug: Delete Results firmwareLoaderIntro.html true
+2/25/20 11:28:38 PM :Debug: Delete Results firmwareLoadCompleteProject.html true
+2/25/20 11:28:38 PM :Debug: Delete Results firmwareLoader true
+Saved user properties successfully
+2/25/20 11:28:38 PM :Info: Initializing File Dialogs.
+2/25/20 11:28:38 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+2/25/20 11:28:38 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+2/25/20 11:28:38 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+2/25/20 11:28:38 PM :Info: Initializing Plugin Services.
+2/25/20 11:28:38 PM :Info: Loading Plugins.
+2/25/20 11:28:38 PM :Info: Initializing Help.
+2/25/20 11:28:38 PM :Info: Initializing Edition Features.
+2/25/20 11:28:38 PM :Info: Initializing App Events.
+2/25/20 11:28:38 PM :Debug: App Name:TunerStudio, appEdition:MS
+2/25/20 11:28:38 PM :Info: Initializing User Interface
+2/25/20 11:28:39 PM :Info: Opening Last Project....
+2/25/20 11:28:39 PM :Info: Checking for updates
+2/25/20 11:28:39 PM :Info: Opening Project ...
+2/25/20 11:28:39 PM :Debug: Opening project: /home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-12-29/
+2/25/20 11:28:39 PM :Debug: EventTrigger Data log Reset. expression: 
+2/25/20 11:28:39 PM :Debug: EventTrigger Stop Data log Reset. expression: 
+2/25/20 11:28:39 PM :Debug: Reading translation file as plain text
+2/25/20 11:28:40 PM :Info: Supported iniSpecVersion=3.67
+2/25/20 11:28:40 PM :Debug: Filtered ConfigurationOptionGroup in 77ms.
+2/25/20 11:28:40 PM :Info: Supported iniSpecVersion=3.67
+2/25/20 11:28:40 PM :Info: Read file canPcVariables.ini: 6.606476ms
+2/25/20 11:28:40 PM :Info: Filtered ini: 0.083392ms
+2/25/20 11:28:40 PM :Info: No iniVersion defined
+2/25/20 11:28:40 PM :Info: Loading Trigger Wheels
+2/25/20 11:28:40 PM :Info: Loaded All known ini sections
+2/25/20 11:28:40 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 46ms.
+2/25/20 11:28:40 PM :Info: Read file mainController.ini: 16.665478ms
+2/25/20 11:28:40 PM :Info: Filtered ini: 10.418342ms
+2/25/20 11:28:40 PM :Info: No iniVersion defined
+2/25/20 11:28:40 PM :Debug: ini signature: speeduino 201911
+2/25/20 11:28:40 PM :Info: Loading Trigger Wheels
+2/25/20 11:28:40 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+2/25/20 11:28:40 PM :Info: Loaded All known ini sections
+2/25/20 11:28:40 PM :Info: Parsed and validated ini "mainController.ini" in : 268ms.
+2/25/20 11:28:40 PM :Info: Supported iniSpecVersion=3.67
+2/25/20 11:28:40 PM :Info: Read file speeduinoSupplement.ecu: 23.836773ms
+2/25/20 11:28:40 PM :Info: Filtered ini: 0.193045ms
+2/25/20 11:28:40 PM :Info: No iniVersion defined
+2/25/20 11:28:40 PM :Info: Stored value for key: ( ( deltatime < 1000.0 ) ) ? (( ( tsFuelFlowGph * deltatime / 3600.0 ) )) : (0.0) = NaN, using 0
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: timeToExceed not supported in this edition.
+2/25/20 11:28:40 PM :Info: Loading Trigger Wheels
+2/25/20 11:28:40 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+2/25/20 11:28:40 PM :Info: Loaded All known ini sections
+2/25/20 11:28:40 PM :Info: Parsed and validated ini "speeduinoSupplement.ecu" in : 51ms.
+2/25/20 11:28:40 PM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+2/25/20 11:28:40 PM :Info: Time to load primary config: 627.6047ms. used cached config: false
+2/25/20 11:28:40 PM :Info: Supported iniSpecVersion=3.67
+2/25/20 11:28:40 PM :Debug: Adding Configuration: GF6-EJ204-2019-12-29
+2/25/20 11:28:40 PM :Debug: controllerOnline = 0.0
+2/25/20 11:28:40 PM :Debug: Fill Constants: 21
+2/25/20 11:28:40 PM :Info: Loading Font list.
+2/25/20 11:28:40 PM :Info: Tune opened, 2307 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-12-29/CurrentTune.msq
+2/25/20 11:28:40 PM :Info: Tune opened, 2307 bytes updated. File:/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-12-29/CurrentTune.msq
+2/25/20 11:28:40 PM :Info: dirtyData.size(): 0
+2/25/20 11:28:40 PM :Info: dirtyData.size(): 0
+2/25/20 11:28:40 PM :Debug: Flush lasted: 5ms.
+2/25/20 11:28:40 PM :Info: dirtyData.size(): 0
+2/25/20 11:28:40 PM :Info: dirtyData.size(): 0
+2/25/20 11:28:40 PM :Debug: Flush lasted: 0ms.
+2/25/20 11:28:40 PM :Debug: Skip Burn, last write page: -2
+2/25/20 11:28:40 PM :Info: !!! Loaded config in 1224
+2/25/20 11:28:41 PM :Debug: Time to retreive font name list: 109 ms.
+2/25/20 11:28:41 PM :Info: 
+2/25/20 11:28:41 PM :Info: Initializing UI Components.
+2/25/20 11:28:41 PM :Info: Ready
+2/25/20 11:28:41 PM :Info: !!! Activated Project 1654
+2/25/20 11:28:41 PM :Info: Opening Gauge Cluster..
+2/25/20 11:28:41 PM :Info: Time to load uncached dash: 390.29697ms, file: dashboard.dash
+2/25/20 11:28:41 PM :Debug: Deactivated fast paint Main Dashboard
+2/25/20 11:28:41 PM :Debug: High Speed Paint: true
+2/25/20 11:28:42 PM :Info: 
+2/25/20 11:28:42 PM :Info: Com Thread created: COMM Thread46243.86350807701
+2/25/20 11:28:42 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+2/25/20 11:28:42 PM :Info: Comm Manager for GF6-EJ204-2019-12-29 Started, thread ID: COMM Thread46243.86350807701
+2/25/20 11:28:42 PM :Debug: Port not valid: Unable to open port: /dev/rfcomm0
+Please check your Communications Settings. 
+2/25/20 11:28:42 PM :Info: Time to load uncached dash: 532.3011ms, file: Diagnostics.dash
+2/25/20 11:28:42 PM :Debug: High Speed Paint: true
+2/25/20 11:28:42 PM :Debug: !!! Opened Dash 3084
+2/25/20 11:28:42 PM :Info: GF6-EJ204-2019-12-29 Ready
+2/25/20 11:28:42 PM :Debug: Tuning View Files loaded in 1.542892ms.
+Saved user properties successfully
+2/25/20 11:28:42 PM :Info: Update Check Completed
+Saved user properties successfully
+2/25/20 11:28:42 PM :Debug: Saved user log settings.
+2/25/20 11:28:47 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+2/25/20 11:28:47 PM :Info: Initiating read page 1 : 4:10
+2/25/20 11:28:47 PM :Debug: Received Instruction: Read Chunk 4, Page: 4
+2/25/20 11:28:47 PM :Info: Initiating read page 4 : 31:10
+2/25/20 11:29:27 PM :Info: dirtyData.size(): 0
+2/25/20 11:29:27 PM :Info: dirtyData.size(): 0
+2/25/20 11:29:27 PM :Debug: Flush lasted: 1ms.
+2/25/20 11:29:27 PM :Debug: Skip Burn, last write page: -2
+2/25/20 11:29:58 PM :Debug: Received Instruction: Read Chunk 5, Page: 5
+2/25/20 11:29:58 PM :Info: Initiating read page 5 : 0:288
+2/25/20 11:30:20 PM :Info: dirtyData.size(): 0
+2/25/20 11:30:20 PM :Info: dirtyData.size(): 0
+2/25/20 11:30:20 PM :Debug: Flush lasted: 1ms.
+2/25/20 11:30:20 PM :Debug: Skip Burn, last write page: -2
+2/26/20 10:21:27 AM :Info: Comm Read Thread Change! Old Thread:null, new Thread:COMM Thread46243.86350807701
+
+2/26/20 10:21:27 AM :Debug: Purged 202 orphaned bytes:
+2/26/20 10:21:27 AM :Debug: Time:39167.071s. 0xA 0x1 0x1 0x1 0x0 0x0 0x0 0x0 0x66 0x0 0x4C 0x2E 0x0 0x74 0xC7 0x64 0x0 0x0 0x0 0x0 0x0 0x0 0x71 0x71 0x0 0x0 0x0 0x0 0x1 0x6F 0x15 0xB1 0x1 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x88 0x67 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x14 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x40 0x45 0x66 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x66 0x0 0x4C 0x2E 0x0 0x74 0xC7 0x64 0x0 0x0 0x0 0x0 0x0 0x0 0x71 0x71 0x0 0x0 0x0 0x0 0x1 0x6F 0x15 0xB1 0x1 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x88 0x67 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x14 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x40 0x45 0x66 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 0x0 
+2/26/20 10:21:27 AM :Debug: Time:39167.072s. 
+
+2/26/20 10:21:27 AM :Debug: Time:39167.072s.   .    .    .    .    .    .    .    .    f    .    L    .    .    t    .    d    .    .    .    .    .    .    q    q    .    .    .    .    .    o    .    .    .    .    .    .    .    .    .    .    .    .    .    .    g    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    @    E    f    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    f    .    L    .    .    t    .    d    .    .    .    .    .    .    q    q    .    .    .    .    .    o    .    .    .    .    .    .    .    .    .    .    .    .    .    .    g    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    @    E    f    .    .    .    .    .    .    .    .    .    .    .    .    .  
+2/26/20 10:21:28 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x31 x39 x31 x31       speeduino.201911
+2/26/20 10:21:29 AM :Info: Communicating with sig:speeduino 201911, Speeduino 2019.11
+2/26/20 10:21:29 AM :Debug: Received Instruction: Read All Tune Data, Page: 0
+2/26/20 10:21:29 AM :Debug: controllerOnline = 1.0
+2/26/20 10:21:30 AM :Info: CRC Mismatch, will need to refresh page from controller 
+2/26/20 10:21:30 AM :Info:    CRC from controller page 1:xB8 x58 xFD xB4                                                       .X..
+2/26/20 10:21:30 AM :Info:    Local Data CRC for page 1: xF3 x50 x69 x07                                                       .Pi.
+2/26/20 10:21:30 AM :Debug: Read page time: 259ms.
+2/26/20 10:21:30 AM :Info: Checksum page 1 data read: xB8 x58 xFD xB4                                                       .X..
+2/26/20 10:21:30 AM :Debug: CRC matches for page 2:xF4 xF0 x7A xE8                                                       ..z.
+2/26/20 10:21:30 AM :Info: CrC matched skipped controller read on page:2
+2/26/20 10:21:30 AM :Debug: CRC matches for page 3:xDF xA5 x40 xF8                                                       ..@.
+2/26/20 10:21:30 AM :Info: CrC matched skipped controller read on page:3
+2/26/20 10:21:30 AM :Debug: CRC matches for page 4:xD9 x85 x00 xAE                                                       ....
+2/26/20 10:21:30 AM :Info: CrC matched skipped controller read on page:4
+2/26/20 10:21:30 AM :Debug: CRC matches for page 5:x68 x86 xAA xE9                                                       h...
+2/26/20 10:21:30 AM :Info: CrC matched skipped controller read on page:5
+2/26/20 10:21:30 AM :Debug: CRC matches for page 6:x41 x0E xDF xB5                                                       A...
+2/26/20 10:21:30 AM :Info: CrC matched skipped controller read on page:6
+2/26/20 10:21:30 AM :Debug: CRC matches for page 7:x33 x33 xF1 x7D                                                       33.}
+2/26/20 10:21:30 AM :Info: CrC matched skipped controller read on page:7
+2/26/20 10:21:30 AM :Debug: CRC matches for page 8:xB3 xA3 x9F x92                                                       ....
+2/26/20 10:21:30 AM :Info: CrC matched skipped controller read on page:8
+2/26/20 10:21:30 AM :Info: CRC Mismatch, will need to refresh page from controller 
+2/26/20 10:21:30 AM :Info:    CRC from controller page 9:xD3 xFE x60 x6B                                                       ..`k
+2/26/20 10:21:30 AM :Info:    Local Data CRC for page 9: x8C xF8 x34 xB4                                                       ..4.
+2/26/20 10:21:30 AM :Debug: Read page time: 224ms.
+2/26/20 10:21:30 AM :Info: Checksum page 9 data read: xD3 xFE x60 x6B                                                       ..`k
+2/26/20 10:21:31 AM :Debug: CRC matches for page 10:xEC xF5 x73 x58                                                       ..sX
+2/26/20 10:21:31 AM :Info: CrC matched skipped controller read on page:10
+2/26/20 10:21:31 AM :Debug: CRC matches for page 11:x96 x4F x59 x44                                                       .OYD
+2/26/20 10:21:31 AM :Info: CrC matched skipped controller read on page:11
+2/26/20 10:21:31 AM :Debug: Read All Data
+2/26/20 10:21:31 AM :Debug: isBlank Time: 0 ms.
+2/26/20 10:21:31 AM :Debug: DiffTime: 30 ms.
+2/26/20 10:21:32 AM :Debug: No Remaining Queue Write instructions
+2/26/20 10:21:36 AM :Debug: Received Instruction: Read Chunk 1, Page: 1
+2/26/20 10:21:36 AM :Info: Initiating read page 1 : 4:10
+2/26/20 10:21:36 AM :Debug: Received Instruction: Read Chunk 4, Page: 4
+2/26/20 10:21:36 AM :Info: Initiating read page 4 : 31:10
+2/26/20 10:21:37 AM :Debug: CRC matches for page 1:xB8 x58 xFD xB4                                                       .X..
+2/26/20 10:21:37 AM :Info: CrC matched skipped controller read on page:0
+2/26/20 10:21:37 AM :Debug: CRC matches for page 4:xD9 x85 x00 xAE                                                       ....
+2/26/20 10:21:37 AM :Info: CrC matched skipped controller read on page:3
+2/26/20 10:21:47 AM :Debug: Received Instruction: Write Chunk, Page: 1
+2/26/20 10:21:50 AM :Info: dirtyData.size(): 0
+2/26/20 10:21:50 AM :Info: dirtyData.size(): 0
+2/26/20 10:21:50 AM :Debug: Flush lasted: 1ms.
+2/26/20 10:21:50 AM :Debug: Burn Page anonymous: 1
+2/26/20 10:21:50 AM :Debug: Received Instruction: , Page: 1
+2/26/20 10:21:50 AM :Info: Queueing burn to page:1
+2/26/20 10:21:50 AM :Debug: Burn time:21ms.
+2/26/20 10:21:50 AM :Debug: burned page 1
+2/26/20 10:21:50 AM :Debug: No Remaining Queue Write instructions
+2/26/20 10:21:50 AM :Debug: CRC matches for page 1:xE8 x08 xCA x05                                                       ....
+2/26/20 10:21:51 AM :Info: Time to save msq: 132.39752
+2/26/20 10:22:03 AM :Info: dirtyData.size(): 0
+2/26/20 10:22:03 AM :Info: dirtyData.size(): 0
+2/26/20 10:22:03 AM :Debug: Flush lasted: 1ms.
+2/26/20 10:22:03 AM :Debug: Burn Page anonymous: -1
+2/26/20 10:22:03 AM :Debug: Received Instruction: , Page: 1
+2/26/20 10:22:03 AM :Info: skip burn to page:1, lastWritePage = -2
+2/26/20 10:22:03 AM :Debug: Request to burn page, but no writes have been performed. Ignoring burn. page: 1
+2/26/20 10:22:35 AM :Debug: Received Instruction: Read Chunk 1, Page: 1
+2/26/20 10:22:35 AM :Info: Initiating read page 1 : 4:10
+2/26/20 10:22:35 AM :Debug: Received Instruction: Read Chunk 4, Page: 4
+2/26/20 10:22:35 AM :Info: Initiating read page 4 : 31:10
+2/26/20 10:22:35 AM :Debug: CRC matches for page 1:xE8 x08 xCA x05                                                       ....
+2/26/20 10:22:35 AM :Info: CrC matched skipped controller read on page:0
+2/26/20 10:22:35 AM :Debug: CRC matches for page 4:xD9 x85 x00 xAE                                                       ....
+2/26/20 10:22:35 AM :Info: CrC matched skipped controller read on page:3
+2/26/20 10:22:48 AM :Debug: Received Instruction: Write Chunk, Page: 1
+2/26/20 10:22:52 AM :Debug: Received Instruction: Write Chunk, Page: 1
+2/26/20 10:22:53 AM :Info: dirtyData.size(): 0
+2/26/20 10:22:53 AM :Info: dirtyData.size(): 0
+2/26/20 10:22:53 AM :Debug: Flush lasted: 0ms.
+2/26/20 10:22:53 AM :Debug: Burn Page anonymous: 1
+2/26/20 10:22:53 AM :Debug: Received Instruction: , Page: 1
+2/26/20 10:22:53 AM :Info: Queueing burn to page:1
+2/26/20 10:22:53 AM :Debug: Burn time:21ms.
+2/26/20 10:22:53 AM :Debug: burned page 1
+2/26/20 10:22:53 AM :Debug: No Remaining Queue Write instructions
+2/26/20 10:22:53 AM :Debug: CRC matches for page 1:xE0 x66 x59 xA7                                                       .fY.
+2/26/20 10:22:55 AM :Info: Time to save msq: 21.543371
+2/26/20 10:23:38 AM :Debug: Received Instruction: Write Chunk, Page: 1
+2/26/20 10:23:42 AM :Debug: Received Instruction: Write Chunk, Page: 1
+2/26/20 10:23:45 AM :Info: dirtyData.size(): 0
+2/26/20 10:23:45 AM :Info: dirtyData.size(): 0
+2/26/20 10:23:45 AM :Debug: Flush lasted: 1ms.
+2/26/20 10:23:45 AM :Debug: Burn Page anonymous: 1
+2/26/20 10:23:45 AM :Debug: Received Instruction: , Page: 1
+2/26/20 10:23:45 AM :Info: Queueing burn to page:1
+2/26/20 10:23:45 AM :Debug: Burn time:21ms.
+2/26/20 10:23:45 AM :Debug: burned page 1
+2/26/20 10:23:45 AM :Debug: No Remaining Queue Write instructions
+2/26/20 10:23:45 AM :Debug: CRC matches for page 1:xEE xDA x21 x64                                                       ..!d
+2/26/20 10:23:47 AM :Info: Time to save msq: 20.412195
+2/26/20 10:23:52 AM :Info: dirtyData.size(): 0
+2/26/20 10:23:52 AM :Info: dirtyData.size(): 0
+2/26/20 10:23:52 AM :Debug: Flush lasted: 1ms.
+2/26/20 10:23:52 AM :Debug: Burn Page anonymous: -1
+2/26/20 10:23:52 AM :Debug: Received Instruction: , Page: 1
+2/26/20 10:23:52 AM :Info: skip burn to page:1, lastWritePage = -2
+2/26/20 10:23:52 AM :Debug: Request to burn page, but no writes have been performed. Ignoring burn. page: 1
+2/26/20 10:24:01 AM :Info: dirtyData.size(): 0
+2/26/20 10:24:01 AM :Info: dirtyData.size(): 0
+2/26/20 10:24:01 AM :Debug: Flush lasted: 1ms.
+2/26/20 10:24:01 AM :Debug: Burn Page anonymous: -1
+2/26/20 10:24:01 AM :Debug: Received Instruction: , Page: 1
+2/26/20 10:24:01 AM :Info: skip burn to page:1, lastWritePage = -2
+2/26/20 10:24:02 AM :Debug: goOffline Starting, Time:0
+2/26/20 10:24:02 AM :Info: Deactivated Turbo Baud, goOffline
+2/26/20 10:24:02 AM :Debug: Burn Page anonymous: -1
+2/26/20 10:24:02 AM :Debug: Received Instruction: , Page: 1
+2/26/20 10:24:02 AM :Info: skip burn to page:1, lastWritePage = -2
+2/26/20 10:24:02 AM :Debug: Request to burn page, but no writes have been performed. Ignoring burn. page: 1
+2/26/20 10:24:02 AM :Debug: Request to burn page, but no writes have been performed. Ignoring burn. page: 1
+2/26/20 10:24:02 AM :Debug: goOffline about to stopProcessing, Time:251
+2/26/20 10:24:02 AM :Debug: controllerOnline = 0.0
+2/26/20 10:24:02 AM :Debug: goOffline Notified offline, Time:265
+2/26/20 10:24:02 AM :Debug: goOffline closed port, Time:265
+2/26/20 10:24:02 AM :Info: GF6-EJ204-2019-12-29 ComThread stopped COMM Thread46243.86350807701
+2/26/20 10:24:02 AM :Debug: goOffline comm thread stopped, Time:416
+2/26/20 10:24:02 AM :Debug: No Remaining Queue Write instructions
+2/26/20 10:24:04 AM :Info: Time to save msq: 24.330385
+2/26/20 10:24:04 AM :Info: closeApp Called
+2/26/20 10:24:04 AM :Debug: TuneLog Editor set text
+2/26/20 10:24:04 AM :Debug: Fill Constants: 20
+2/26/20 10:24:04 AM :Debug: File does not exist, creating new:
+/home/john/Projects/GF6-EJ204/TunerStudio/GF6-EJ204-2019-12-29/restorePoints/GF6-EJ204-2019-12-29_2020-02-26_10.24.04.msq
+2/26/20 10:24:04 AM :Info: Time to save msq: 23.087864
+2/26/20 10:24:04 AM :Info: GF6-EJ204-2019-12-29 Restore point saved
+2/26/20 10:24:04 AM :Info: GF6-EJ204-2019-12-29 Restore point saved to: GF6-EJ204-2019-12-29_2020-02-26_10.24.04.msq
+2/26/20 10:24:04 AM :Info: Time to save msq: 23.690374
+2/26/20 10:24:04 AM :Debug: goOffline Starting, Time:0
+2/26/20 10:24:04 AM :Info: Deactivated Turbo Baud, goOffline
+2/26/20 10:24:04 AM :Debug: goOffline about to stopProcessing, Time:0
+2/26/20 10:24:04 AM :Debug: goOffline closed port, Time:0
+2/26/20 10:24:05 AM :Debug: goOffline comm thread stopped, Time:500
+2/26/20 10:24:05 AM :Debug: No Remaining Queue Write instructions
+2/26/20 10:24:05 AM :Debug: removing Configuration: GF6-EJ204-2019-12-29
+2/26/20 10:24:05 AM :Debug: ############################################# Save Project ##########################################
+2/26/20 10:24:05 AM :Info: Finalizing Sensors
+Saved user properties successfully
+2/26/20 10:24:05 AM :Debug: Saved user log settings.
